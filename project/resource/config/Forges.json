@@ -1,0 +1,7201 @@
+[{
+	"id": 1,
+	"level": 0,
+	"nid": 2,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 20,
+	"attrs": "attack_hit",
+	"values": "24_9"
+}, {
+	"id": 2,
+	"level": 1,
+	"nid": 3,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 40,
+	"attrs": "attack_hit",
+	"values": "48_18"
+}, {
+	"id": 3,
+	"level": 2,
+	"nid": 4,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 60,
+	"attrs": "attack_hit",
+	"values": "72_27"
+}, {
+	"id": 4,
+	"level": 3,
+	"nid": 5,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 80,
+	"attrs": "attack_hit",
+	"values": "96_36"
+}, {
+	"id": 5,
+	"level": 4,
+	"nid": 6,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 100,
+	"attrs": "attack_hit",
+	"values": "120_45"
+}, {
+	"id": 6,
+	"level": 5,
+	"nid": 7,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 120,
+	"attrs": "attack_hit",
+	"values": "144_54"
+}, {
+	"id": 7,
+	"level": 6,
+	"nid": 8,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 140,
+	"attrs": "attack_hit",
+	"values": "168_63"
+}, {
+	"id": 8,
+	"level": 7,
+	"nid": 9,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 160,
+	"attrs": "attack_hit",
+	"values": "192_72"
+}, {
+	"id": 9,
+	"level": 8,
+	"nid": 10,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 180,
+	"attrs": "attack_hit",
+	"values": "216_81"
+}, {
+	"id": 10,
+	"level": 9,
+	"nid": 11,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 200,
+	"attrs": "attack_hit",
+	"values": "240_90"
+}, {
+	"id": 11,
+	"level": 10,
+	"nid": 12,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 220,
+	"attrs": "attack_hit",
+	"values": "264_99"
+}, {
+	"id": 12,
+	"level": 11,
+	"nid": 13,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 240,
+	"attrs": "attack_hit",
+	"values": "288_108"
+}, {
+	"id": 13,
+	"level": 12,
+	"nid": 14,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 260,
+	"attrs": "attack_hit",
+	"values": "312_117"
+}, {
+	"id": 14,
+	"level": 13,
+	"nid": 15,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 280,
+	"attrs": "attack_hit",
+	"values": "336_126"
+}, {
+	"id": 15,
+	"level": 14,
+	"nid": 16,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 300,
+	"attrs": "attack_hit",
+	"values": "360_135"
+}, {
+	"id": 16,
+	"level": 15,
+	"nid": 17,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 320,
+	"attrs": "attack_hit",
+	"values": "384_144"
+}, {
+	"id": 17,
+	"level": 16,
+	"nid": 18,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 340,
+	"attrs": "attack_hit",
+	"values": "408_153"
+}, {
+	"id": 18,
+	"level": 17,
+	"nid": 19,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 360,
+	"attrs": "attack_hit",
+	"values": "432_162"
+}, {
+	"id": 19,
+	"level": 18,
+	"nid": 20,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 380,
+	"attrs": "attack_hit",
+	"values": "456_171"
+}, {
+	"id": 20,
+	"level": 19,
+	"nid": 21,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 400,
+	"attrs": "attack_hit",
+	"values": "480_180"
+}, {
+	"id": 21,
+	"level": 20,
+	"nid": 22,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 420,
+	"attrs": "attack_hit",
+	"values": "504_189"
+}, {
+	"id": 22,
+	"level": 21,
+	"nid": 23,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 440,
+	"attrs": "attack_hit",
+	"values": "528_198"
+}, {
+	"id": 23,
+	"level": 22,
+	"nid": 24,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 460,
+	"attrs": "attack_hit",
+	"values": "552_207"
+}, {
+	"id": 24,
+	"level": 23,
+	"nid": 25,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 480,
+	"attrs": "attack_hit",
+	"values": "576_216"
+}, {
+	"id": 25,
+	"level": 24,
+	"nid": 26,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 500,
+	"attrs": "attack_hit",
+	"values": "600_225"
+}, {
+	"id": 26,
+	"level": 25,
+	"nid": 27,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 520,
+	"attrs": "attack_hit",
+	"values": "624_234"
+}, {
+	"id": 27,
+	"level": 26,
+	"nid": 28,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 540,
+	"attrs": "attack_hit",
+	"values": "648_243"
+}, {
+	"id": 28,
+	"level": 27,
+	"nid": 29,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 560,
+	"attrs": "attack_hit",
+	"values": "672_252"
+}, {
+	"id": 29,
+	"level": 28,
+	"nid": 30,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 580,
+	"attrs": "attack_hit",
+	"values": "696_261"
+}, {
+	"id": 30,
+	"level": 29,
+	"nid": 31,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 600,
+	"attrs": "attack_hit",
+	"values": "720_270"
+}, {
+	"id": 31,
+	"level": 30,
+	"nid": 32,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 620,
+	"attrs": "attack_hit",
+	"values": "744_279"
+}, {
+	"id": 32,
+	"level": 31,
+	"nid": 33,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 640,
+	"attrs": "attack_hit",
+	"values": "768_288"
+}, {
+	"id": 33,
+	"level": 32,
+	"nid": 34,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 660,
+	"attrs": "attack_hit",
+	"values": "792_297"
+}, {
+	"id": 34,
+	"level": 33,
+	"nid": 35,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 680,
+	"attrs": "attack_hit",
+	"values": "816_306"
+}, {
+	"id": 35,
+	"level": 34,
+	"nid": 36,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 700,
+	"attrs": "attack_hit",
+	"values": "840_315"
+}, {
+	"id": 36,
+	"level": 35,
+	"nid": 37,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 720,
+	"attrs": "attack_hit",
+	"values": "864_324"
+}, {
+	"id": 37,
+	"level": 36,
+	"nid": 38,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 740,
+	"attrs": "attack_hit",
+	"values": "888_333"
+}, {
+	"id": 38,
+	"level": 37,
+	"nid": 39,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 760,
+	"attrs": "attack_hit",
+	"values": "912_342"
+}, {
+	"id": 39,
+	"level": 38,
+	"nid": 40,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 780,
+	"attrs": "attack_hit",
+	"values": "936_351"
+}, {
+	"id": 40,
+	"level": 39,
+	"nid": 41,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 800,
+	"attrs": "attack_hit",
+	"values": "960_360"
+}, {
+	"id": 41,
+	"level": 40,
+	"nid": 42,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 820,
+	"attrs": "attack_hit",
+	"values": "984_369"
+}, {
+	"id": 42,
+	"level": 41,
+	"nid": 43,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 840,
+	"attrs": "attack_hit",
+	"values": "1008_378"
+}, {
+	"id": 43,
+	"level": 42,
+	"nid": 44,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 860,
+	"attrs": "attack_hit",
+	"values": "1032_387"
+}, {
+	"id": 44,
+	"level": 43,
+	"nid": 45,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 880,
+	"attrs": "attack_hit",
+	"values": "1056_396"
+}, {
+	"id": 45,
+	"level": 44,
+	"nid": 46,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 900,
+	"attrs": "attack_hit",
+	"values": "1080_405"
+}, {
+	"id": 46,
+	"level": 45,
+	"nid": 47,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 920,
+	"attrs": "attack_hit",
+	"values": "1104_414"
+}, {
+	"id": 47,
+	"level": 46,
+	"nid": 48,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 940,
+	"attrs": "attack_hit",
+	"values": "1128_423"
+}, {
+	"id": 48,
+	"level": 47,
+	"nid": 49,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 960,
+	"attrs": "attack_hit",
+	"values": "1152_432"
+}, {
+	"id": 49,
+	"level": 48,
+	"nid": 50,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 980,
+	"attrs": "attack_hit",
+	"values": "1176_441"
+}, {
+	"id": 50,
+	"level": 49,
+	"nid": 51,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1000,
+	"attrs": "attack_hit",
+	"values": "1200_450"
+}, {
+	"id": 51,
+	"level": 50,
+	"nid": 52,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1020,
+	"attrs": "attack_hit",
+	"values": "1224_459"
+}, {
+	"id": 52,
+	"level": 51,
+	"nid": 53,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1040,
+	"attrs": "attack_hit",
+	"values": "1248_468"
+}, {
+	"id": 53,
+	"level": 52,
+	"nid": 54,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1060,
+	"attrs": "attack_hit",
+	"values": "1272_477"
+}, {
+	"id": 54,
+	"level": 53,
+	"nid": 55,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1080,
+	"attrs": "attack_hit",
+	"values": "1296_486"
+}, {
+	"id": 55,
+	"level": 54,
+	"nid": 56,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1100,
+	"attrs": "attack_hit",
+	"values": "1320_495"
+}, {
+	"id": 56,
+	"level": 55,
+	"nid": 57,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1120,
+	"attrs": "attack_hit",
+	"values": "1344_504"
+}, {
+	"id": 57,
+	"level": 56,
+	"nid": 58,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1140,
+	"attrs": "attack_hit",
+	"values": "1368_513"
+}, {
+	"id": 58,
+	"level": 57,
+	"nid": 59,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1160,
+	"attrs": "attack_hit",
+	"values": "1392_522"
+}, {
+	"id": 59,
+	"level": 58,
+	"nid": 60,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1180,
+	"attrs": "attack_hit",
+	"values": "1416_531"
+}, {
+	"id": 60,
+	"level": 59,
+	"nid": 61,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1200,
+	"attrs": "attack_hit",
+	"values": "1440_540"
+}, {
+	"id": 61,
+	"level": 60,
+	"nid": 62,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1220,
+	"attrs": "attack_hit",
+	"values": "1464_549"
+}, {
+	"id": 62,
+	"level": 61,
+	"nid": 63,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1240,
+	"attrs": "attack_hit",
+	"values": "1488_558"
+}, {
+	"id": 63,
+	"level": 62,
+	"nid": 64,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1260,
+	"attrs": "attack_hit",
+	"values": "1512_567"
+}, {
+	"id": 64,
+	"level": 63,
+	"nid": 65,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1280,
+	"attrs": "attack_hit",
+	"values": "1536_576"
+}, {
+	"id": 65,
+	"level": 64,
+	"nid": 66,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1300,
+	"attrs": "attack_hit",
+	"values": "1560_585"
+}, {
+	"id": 66,
+	"level": 65,
+	"nid": 67,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1320,
+	"attrs": "attack_hit",
+	"values": "1584_594"
+}, {
+	"id": 67,
+	"level": 66,
+	"nid": 68,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1340,
+	"attrs": "attack_hit",
+	"values": "1608_603"
+}, {
+	"id": 68,
+	"level": 67,
+	"nid": 69,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1360,
+	"attrs": "attack_hit",
+	"values": "1632_612"
+}, {
+	"id": 69,
+	"level": 68,
+	"nid": 70,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1380,
+	"attrs": "attack_hit",
+	"values": "1656_621"
+}, {
+	"id": 70,
+	"level": 69,
+	"nid": 71,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1400,
+	"attrs": "attack_hit",
+	"values": "1680_630"
+}, {
+	"id": 71,
+	"level": 70,
+	"nid": 72,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1420,
+	"attrs": "attack_hit",
+	"values": "1704_639"
+}, {
+	"id": 72,
+	"level": 71,
+	"nid": 73,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1440,
+	"attrs": "attack_hit",
+	"values": "1728_648"
+}, {
+	"id": 73,
+	"level": 72,
+	"nid": 74,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1460,
+	"attrs": "attack_hit",
+	"values": "1752_657"
+}, {
+	"id": 74,
+	"level": 73,
+	"nid": 75,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1480,
+	"attrs": "attack_hit",
+	"values": "1776_666"
+}, {
+	"id": 75,
+	"level": 74,
+	"nid": 76,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1500,
+	"attrs": "attack_hit",
+	"values": "1800_675"
+}, {
+	"id": 76,
+	"level": 75,
+	"nid": 77,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1520,
+	"attrs": "attack_hit",
+	"values": "1824_684"
+}, {
+	"id": 77,
+	"level": 76,
+	"nid": 78,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1540,
+	"attrs": "attack_hit",
+	"values": "1848_693"
+}, {
+	"id": 78,
+	"level": 77,
+	"nid": 79,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1560,
+	"attrs": "attack_hit",
+	"values": "1872_702"
+}, {
+	"id": 79,
+	"level": 78,
+	"nid": 80,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1580,
+	"attrs": "attack_hit",
+	"values": "1896_711"
+}, {
+	"id": 80,
+	"level": 79,
+	"nid": 81,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1600,
+	"attrs": "attack_hit",
+	"values": "1920_720"
+}, {
+	"id": 81,
+	"level": 80,
+	"nid": 82,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1620,
+	"attrs": "attack_hit",
+	"values": "1944_729"
+}, {
+	"id": 82,
+	"level": 81,
+	"nid": 83,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1640,
+	"attrs": "attack_hit",
+	"values": "1968_738"
+}, {
+	"id": 83,
+	"level": 82,
+	"nid": 84,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1660,
+	"attrs": "attack_hit",
+	"values": "1992_747"
+}, {
+	"id": 84,
+	"level": 83,
+	"nid": 85,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1680,
+	"attrs": "attack_hit",
+	"values": "2016_756"
+}, {
+	"id": 85,
+	"level": 84,
+	"nid": 86,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1700,
+	"attrs": "attack_hit",
+	"values": "2040_765"
+}, {
+	"id": 86,
+	"level": 85,
+	"nid": 87,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1720,
+	"attrs": "attack_hit",
+	"values": "2064_774"
+}, {
+	"id": 87,
+	"level": 86,
+	"nid": 88,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1740,
+	"attrs": "attack_hit",
+	"values": "2088_783"
+}, {
+	"id": 88,
+	"level": 87,
+	"nid": 89,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1760,
+	"attrs": "attack_hit",
+	"values": "2112_792"
+}, {
+	"id": 89,
+	"level": 88,
+	"nid": 90,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1780,
+	"attrs": "attack_hit",
+	"values": "2136_801"
+}, {
+	"id": 90,
+	"level": 89,
+	"nid": 91,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1800,
+	"attrs": "attack_hit",
+	"values": "2160_810"
+}, {
+	"id": 91,
+	"level": 90,
+	"nid": 92,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1820,
+	"attrs": "attack_hit",
+	"values": "2184_819"
+}, {
+	"id": 92,
+	"level": 91,
+	"nid": 93,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1840,
+	"attrs": "attack_hit",
+	"values": "2208_828"
+}, {
+	"id": 93,
+	"level": 92,
+	"nid": 94,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1860,
+	"attrs": "attack_hit",
+	"values": "2232_837"
+}, {
+	"id": 94,
+	"level": 93,
+	"nid": 95,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1880,
+	"attrs": "attack_hit",
+	"values": "2256_846"
+}, {
+	"id": 95,
+	"level": 94,
+	"nid": 96,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1900,
+	"attrs": "attack_hit",
+	"values": "2280_855"
+}, {
+	"id": 96,
+	"level": 95,
+	"nid": 97,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1920,
+	"attrs": "attack_hit",
+	"values": "2304_864"
+}, {
+	"id": 97,
+	"level": 96,
+	"nid": 98,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1940,
+	"attrs": "attack_hit",
+	"values": "2328_873"
+}, {
+	"id": 98,
+	"level": 97,
+	"nid": 99,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1960,
+	"attrs": "attack_hit",
+	"values": "2352_882"
+}, {
+	"id": 99,
+	"level": 98,
+	"nid": 100,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 1980,
+	"attrs": "attack_hit",
+	"values": "2376_891"
+}, {
+	"id": 100,
+	"level": 99,
+	"nid": 0,
+	"equipPos": 0,
+	"itemId": 602,
+	"itemCost": 2000,
+	"attrs": "attack_hit",
+	"values": "2400_900"
+}, {
+	"id": 101,
+	"level": 0,
+	"nid": 102,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 20,
+	"attrs": "def_kCirk",
+	"values": "12_9"
+}, {
+	"id": 102,
+	"level": 1,
+	"nid": 103,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 40,
+	"attrs": "def_kCirk",
+	"values": "24_21"
+}, {
+	"id": 103,
+	"level": 2,
+	"nid": 104,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 60,
+	"attrs": "def_kCirk",
+	"values": "36_33"
+}, {
+	"id": 104,
+	"level": 3,
+	"nid": 105,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 80,
+	"attrs": "def_kCirk",
+	"values": "48_45"
+}, {
+	"id": 105,
+	"level": 4,
+	"nid": 106,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 100,
+	"attrs": "def_kCirk",
+	"values": "60_57"
+}, {
+	"id": 106,
+	"level": 5,
+	"nid": 107,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 120,
+	"attrs": "def_kCirk",
+	"values": "72_69"
+}, {
+	"id": 107,
+	"level": 6,
+	"nid": 108,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 140,
+	"attrs": "def_kCirk",
+	"values": "84_81"
+}, {
+	"id": 108,
+	"level": 7,
+	"nid": 109,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 160,
+	"attrs": "def_kCirk",
+	"values": "96_93"
+}, {
+	"id": 109,
+	"level": 8,
+	"nid": 110,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 180,
+	"attrs": "def_kCirk",
+	"values": "108_105"
+}, {
+	"id": 110,
+	"level": 9,
+	"nid": 111,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 200,
+	"attrs": "def_kCirk",
+	"values": "120_117"
+}, {
+	"id": 111,
+	"level": 10,
+	"nid": 112,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 220,
+	"attrs": "def_kCirk",
+	"values": "132_129"
+}, {
+	"id": 112,
+	"level": 11,
+	"nid": 113,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 240,
+	"attrs": "def_kCirk",
+	"values": "144_141"
+}, {
+	"id": 113,
+	"level": 12,
+	"nid": 114,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 260,
+	"attrs": "def_kCirk",
+	"values": "156_153"
+}, {
+	"id": 114,
+	"level": 13,
+	"nid": 115,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 280,
+	"attrs": "def_kCirk",
+	"values": "168_165"
+}, {
+	"id": 115,
+	"level": 14,
+	"nid": 116,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 300,
+	"attrs": "def_kCirk",
+	"values": "180_177"
+}, {
+	"id": 116,
+	"level": 15,
+	"nid": 117,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 320,
+	"attrs": "def_kCirk",
+	"values": "192_189"
+}, {
+	"id": 117,
+	"level": 16,
+	"nid": 118,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 340,
+	"attrs": "def_kCirk",
+	"values": "204_201"
+}, {
+	"id": 118,
+	"level": 17,
+	"nid": 119,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 360,
+	"attrs": "def_kCirk",
+	"values": "216_213"
+}, {
+	"id": 119,
+	"level": 18,
+	"nid": 120,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 380,
+	"attrs": "def_kCirk",
+	"values": "228_225"
+}, {
+	"id": 120,
+	"level": 19,
+	"nid": 121,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 400,
+	"attrs": "def_kCirk",
+	"values": "240_237"
+}, {
+	"id": 121,
+	"level": 20,
+	"nid": 122,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 420,
+	"attrs": "def_kCirk",
+	"values": "252_249"
+}, {
+	"id": 122,
+	"level": 21,
+	"nid": 123,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 440,
+	"attrs": "def_kCirk",
+	"values": "264_261"
+}, {
+	"id": 123,
+	"level": 22,
+	"nid": 124,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 460,
+	"attrs": "def_kCirk",
+	"values": "276_273"
+}, {
+	"id": 124,
+	"level": 23,
+	"nid": 125,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 480,
+	"attrs": "def_kCirk",
+	"values": "288_285"
+}, {
+	"id": 125,
+	"level": 24,
+	"nid": 126,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 500,
+	"attrs": "def_kCirk",
+	"values": "300_297"
+}, {
+	"id": 126,
+	"level": 25,
+	"nid": 127,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 520,
+	"attrs": "def_kCirk",
+	"values": "312_309"
+}, {
+	"id": 127,
+	"level": 26,
+	"nid": 128,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 540,
+	"attrs": "def_kCirk",
+	"values": "324_321"
+}, {
+	"id": 128,
+	"level": 27,
+	"nid": 129,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 560,
+	"attrs": "def_kCirk",
+	"values": "336_333"
+}, {
+	"id": 129,
+	"level": 28,
+	"nid": 130,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 580,
+	"attrs": "def_kCirk",
+	"values": "348_345"
+}, {
+	"id": 130,
+	"level": 29,
+	"nid": 131,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 600,
+	"attrs": "def_kCirk",
+	"values": "360_357"
+}, {
+	"id": 131,
+	"level": 30,
+	"nid": 132,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 620,
+	"attrs": "def_kCirk",
+	"values": "372_369"
+}, {
+	"id": 132,
+	"level": 31,
+	"nid": 133,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 640,
+	"attrs": "def_kCirk",
+	"values": "384_381"
+}, {
+	"id": 133,
+	"level": 32,
+	"nid": 134,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 660,
+	"attrs": "def_kCirk",
+	"values": "396_393"
+}, {
+	"id": 134,
+	"level": 33,
+	"nid": 135,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 680,
+	"attrs": "def_kCirk",
+	"values": "408_405"
+}, {
+	"id": 135,
+	"level": 34,
+	"nid": 136,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 700,
+	"attrs": "def_kCirk",
+	"values": "420_417"
+}, {
+	"id": 136,
+	"level": 35,
+	"nid": 137,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 720,
+	"attrs": "def_kCirk",
+	"values": "432_429"
+}, {
+	"id": 137,
+	"level": 36,
+	"nid": 138,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 740,
+	"attrs": "def_kCirk",
+	"values": "444_441"
+}, {
+	"id": 138,
+	"level": 37,
+	"nid": 139,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 760,
+	"attrs": "def_kCirk",
+	"values": "456_453"
+}, {
+	"id": 139,
+	"level": 38,
+	"nid": 140,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 780,
+	"attrs": "def_kCirk",
+	"values": "468_465"
+}, {
+	"id": 140,
+	"level": 39,
+	"nid": 141,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 800,
+	"attrs": "def_kCirk",
+	"values": "480_477"
+}, {
+	"id": 141,
+	"level": 40,
+	"nid": 142,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 820,
+	"attrs": "def_kCirk",
+	"values": "492_489"
+}, {
+	"id": 142,
+	"level": 41,
+	"nid": 143,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 840,
+	"attrs": "def_kCirk",
+	"values": "504_501"
+}, {
+	"id": 143,
+	"level": 42,
+	"nid": 144,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 860,
+	"attrs": "def_kCirk",
+	"values": "516_513"
+}, {
+	"id": 144,
+	"level": 43,
+	"nid": 145,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 880,
+	"attrs": "def_kCirk",
+	"values": "528_525"
+}, {
+	"id": 145,
+	"level": 44,
+	"nid": 146,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 900,
+	"attrs": "def_kCirk",
+	"values": "540_537"
+}, {
+	"id": 146,
+	"level": 45,
+	"nid": 147,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 920,
+	"attrs": "def_kCirk",
+	"values": "552_549"
+}, {
+	"id": 147,
+	"level": 46,
+	"nid": 148,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 940,
+	"attrs": "def_kCirk",
+	"values": "564_561"
+}, {
+	"id": 148,
+	"level": 47,
+	"nid": 149,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 960,
+	"attrs": "def_kCirk",
+	"values": "576_573"
+}, {
+	"id": 149,
+	"level": 48,
+	"nid": 150,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 980,
+	"attrs": "def_kCirk",
+	"values": "588_585"
+}, {
+	"id": 150,
+	"level": 49,
+	"nid": 151,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1000,
+	"attrs": "def_kCirk",
+	"values": "600_597"
+}, {
+	"id": 151,
+	"level": 50,
+	"nid": 152,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1020,
+	"attrs": "def_kCirk",
+	"values": "612_609"
+}, {
+	"id": 152,
+	"level": 51,
+	"nid": 153,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1040,
+	"attrs": "def_kCirk",
+	"values": "624_621"
+}, {
+	"id": 153,
+	"level": 52,
+	"nid": 154,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1060,
+	"attrs": "def_kCirk",
+	"values": "636_633"
+}, {
+	"id": 154,
+	"level": 53,
+	"nid": 155,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1080,
+	"attrs": "def_kCirk",
+	"values": "648_645"
+}, {
+	"id": 155,
+	"level": 54,
+	"nid": 156,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1100,
+	"attrs": "def_kCirk",
+	"values": "660_657"
+}, {
+	"id": 156,
+	"level": 55,
+	"nid": 157,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1120,
+	"attrs": "def_kCirk",
+	"values": "672_669"
+}, {
+	"id": 157,
+	"level": 56,
+	"nid": 158,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1140,
+	"attrs": "def_kCirk",
+	"values": "684_681"
+}, {
+	"id": 158,
+	"level": 57,
+	"nid": 159,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1160,
+	"attrs": "def_kCirk",
+	"values": "696_693"
+}, {
+	"id": 159,
+	"level": 58,
+	"nid": 160,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1180,
+	"attrs": "def_kCirk",
+	"values": "708_705"
+}, {
+	"id": 160,
+	"level": 59,
+	"nid": 161,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1200,
+	"attrs": "def_kCirk",
+	"values": "720_717"
+}, {
+	"id": 161,
+	"level": 60,
+	"nid": 162,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1220,
+	"attrs": "def_kCirk",
+	"values": "732_729"
+}, {
+	"id": 162,
+	"level": 61,
+	"nid": 163,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1240,
+	"attrs": "def_kCirk",
+	"values": "744_741"
+}, {
+	"id": 163,
+	"level": 62,
+	"nid": 164,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1260,
+	"attrs": "def_kCirk",
+	"values": "756_753"
+}, {
+	"id": 164,
+	"level": 63,
+	"nid": 165,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1280,
+	"attrs": "def_kCirk",
+	"values": "768_765"
+}, {
+	"id": 165,
+	"level": 64,
+	"nid": 166,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1300,
+	"attrs": "def_kCirk",
+	"values": "780_777"
+}, {
+	"id": 166,
+	"level": 65,
+	"nid": 167,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1320,
+	"attrs": "def_kCirk",
+	"values": "792_789"
+}, {
+	"id": 167,
+	"level": 66,
+	"nid": 168,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1340,
+	"attrs": "def_kCirk",
+	"values": "804_801"
+}, {
+	"id": 168,
+	"level": 67,
+	"nid": 169,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1360,
+	"attrs": "def_kCirk",
+	"values": "816_813"
+}, {
+	"id": 169,
+	"level": 68,
+	"nid": 170,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1380,
+	"attrs": "def_kCirk",
+	"values": "828_825"
+}, {
+	"id": 170,
+	"level": 69,
+	"nid": 171,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1400,
+	"attrs": "def_kCirk",
+	"values": "840_837"
+}, {
+	"id": 171,
+	"level": 70,
+	"nid": 172,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1420,
+	"attrs": "def_kCirk",
+	"values": "852_849"
+}, {
+	"id": 172,
+	"level": 71,
+	"nid": 173,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1440,
+	"attrs": "def_kCirk",
+	"values": "864_861"
+}, {
+	"id": 173,
+	"level": 72,
+	"nid": 174,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1460,
+	"attrs": "def_kCirk",
+	"values": "876_873"
+}, {
+	"id": 174,
+	"level": 73,
+	"nid": 175,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1480,
+	"attrs": "def_kCirk",
+	"values": "888_885"
+}, {
+	"id": 175,
+	"level": 74,
+	"nid": 176,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1500,
+	"attrs": "def_kCirk",
+	"values": "900_897"
+}, {
+	"id": 176,
+	"level": 75,
+	"nid": 177,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1520,
+	"attrs": "def_kCirk",
+	"values": "912_909"
+}, {
+	"id": 177,
+	"level": 76,
+	"nid": 178,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1540,
+	"attrs": "def_kCirk",
+	"values": "924_921"
+}, {
+	"id": 178,
+	"level": 77,
+	"nid": 179,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1560,
+	"attrs": "def_kCirk",
+	"values": "936_933"
+}, {
+	"id": 179,
+	"level": 78,
+	"nid": 180,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1580,
+	"attrs": "def_kCirk",
+	"values": "948_945"
+}, {
+	"id": 180,
+	"level": 79,
+	"nid": 181,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1600,
+	"attrs": "def_kCirk",
+	"values": "960_957"
+}, {
+	"id": 181,
+	"level": 80,
+	"nid": 182,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1620,
+	"attrs": "def_kCirk",
+	"values": "972_969"
+}, {
+	"id": 182,
+	"level": 81,
+	"nid": 183,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1640,
+	"attrs": "def_kCirk",
+	"values": "984_981"
+}, {
+	"id": 183,
+	"level": 82,
+	"nid": 184,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1660,
+	"attrs": "def_kCirk",
+	"values": "996_993"
+}, {
+	"id": 184,
+	"level": 83,
+	"nid": 185,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1680,
+	"attrs": "def_kCirk",
+	"values": "1008_1005"
+}, {
+	"id": 185,
+	"level": 84,
+	"nid": 186,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1700,
+	"attrs": "def_kCirk",
+	"values": "1020_1017"
+}, {
+	"id": 186,
+	"level": 85,
+	"nid": 187,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1720,
+	"attrs": "def_kCirk",
+	"values": "1032_1029"
+}, {
+	"id": 187,
+	"level": 86,
+	"nid": 188,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1740,
+	"attrs": "def_kCirk",
+	"values": "1044_1041"
+}, {
+	"id": 188,
+	"level": 87,
+	"nid": 189,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1760,
+	"attrs": "def_kCirk",
+	"values": "1056_1053"
+}, {
+	"id": 189,
+	"level": 88,
+	"nid": 190,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1780,
+	"attrs": "def_kCirk",
+	"values": "1068_1065"
+}, {
+	"id": 190,
+	"level": 89,
+	"nid": 191,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1800,
+	"attrs": "def_kCirk",
+	"values": "1080_1077"
+}, {
+	"id": 191,
+	"level": 90,
+	"nid": 192,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1820,
+	"attrs": "def_kCirk",
+	"values": "1092_1089"
+}, {
+	"id": 192,
+	"level": 91,
+	"nid": 193,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1840,
+	"attrs": "def_kCirk",
+	"values": "1104_1101"
+}, {
+	"id": 193,
+	"level": 92,
+	"nid": 194,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1860,
+	"attrs": "def_kCirk",
+	"values": "1116_1113"
+}, {
+	"id": 194,
+	"level": 93,
+	"nid": 195,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1880,
+	"attrs": "def_kCirk",
+	"values": "1128_1125"
+}, {
+	"id": 195,
+	"level": 94,
+	"nid": 196,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1900,
+	"attrs": "def_kCirk",
+	"values": "1140_1137"
+}, {
+	"id": 196,
+	"level": 95,
+	"nid": 197,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1920,
+	"attrs": "def_kCirk",
+	"values": "1152_1149"
+}, {
+	"id": 197,
+	"level": 96,
+	"nid": 198,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1940,
+	"attrs": "def_kCirk",
+	"values": "1164_1161"
+}, {
+	"id": 198,
+	"level": 97,
+	"nid": 199,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1960,
+	"attrs": "def_kCirk",
+	"values": "1176_1173"
+}, {
+	"id": 199,
+	"level": 98,
+	"nid": 200,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 1980,
+	"attrs": "def_kCirk",
+	"values": "1188_1185"
+}, {
+	"id": 200,
+	"level": 99,
+	"nid": 0,
+	"equipPos": 1,
+	"itemId": 602,
+	"itemCost": 2000,
+	"attrs": "def_kCirk",
+	"values": "1200_1197"
+}, {
+	"id": 201,
+	"level": 0,
+	"nid": 202,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 20,
+	"attrs": "hit_cirt",
+	"values": "9_12"
+}, {
+	"id": 202,
+	"level": 1,
+	"nid": 203,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 40,
+	"attrs": "hit_cirt",
+	"values": "18_24"
+}, {
+	"id": 203,
+	"level": 2,
+	"nid": 204,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 60,
+	"attrs": "hit_cirt",
+	"values": "27_36"
+}, {
+	"id": 204,
+	"level": 3,
+	"nid": 205,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 80,
+	"attrs": "hit_cirt",
+	"values": "36_48"
+}, {
+	"id": 205,
+	"level": 4,
+	"nid": 206,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 100,
+	"attrs": "hit_cirt",
+	"values": "45_60"
+}, {
+	"id": 206,
+	"level": 5,
+	"nid": 207,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 120,
+	"attrs": "hit_cirt",
+	"values": "54_72"
+}, {
+	"id": 207,
+	"level": 6,
+	"nid": 208,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 140,
+	"attrs": "hit_cirt",
+	"values": "63_84"
+}, {
+	"id": 208,
+	"level": 7,
+	"nid": 209,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 160,
+	"attrs": "hit_cirt",
+	"values": "72_96"
+}, {
+	"id": 209,
+	"level": 8,
+	"nid": 210,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 180,
+	"attrs": "hit_cirt",
+	"values": "81_108"
+}, {
+	"id": 210,
+	"level": 9,
+	"nid": 211,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 200,
+	"attrs": "hit_cirt",
+	"values": "90_120"
+}, {
+	"id": 211,
+	"level": 10,
+	"nid": 212,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 220,
+	"attrs": "hit_cirt",
+	"values": "99_132"
+}, {
+	"id": 212,
+	"level": 11,
+	"nid": 213,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 240,
+	"attrs": "hit_cirt",
+	"values": "108_144"
+}, {
+	"id": 213,
+	"level": 12,
+	"nid": 214,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 260,
+	"attrs": "hit_cirt",
+	"values": "117_156"
+}, {
+	"id": 214,
+	"level": 13,
+	"nid": 215,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 280,
+	"attrs": "hit_cirt",
+	"values": "126_168"
+}, {
+	"id": 215,
+	"level": 14,
+	"nid": 216,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 300,
+	"attrs": "hit_cirt",
+	"values": "135_180"
+}, {
+	"id": 216,
+	"level": 15,
+	"nid": 217,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 320,
+	"attrs": "hit_cirt",
+	"values": "144_192"
+}, {
+	"id": 217,
+	"level": 16,
+	"nid": 218,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 340,
+	"attrs": "hit_cirt",
+	"values": "153_204"
+}, {
+	"id": 218,
+	"level": 17,
+	"nid": 219,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 360,
+	"attrs": "hit_cirt",
+	"values": "162_216"
+}, {
+	"id": 219,
+	"level": 18,
+	"nid": 220,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 380,
+	"attrs": "hit_cirt",
+	"values": "171_228"
+}, {
+	"id": 220,
+	"level": 19,
+	"nid": 221,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 400,
+	"attrs": "hit_cirt",
+	"values": "180_240"
+}, {
+	"id": 221,
+	"level": 20,
+	"nid": 222,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 420,
+	"attrs": "hit_cirt",
+	"values": "189_252"
+}, {
+	"id": 222,
+	"level": 21,
+	"nid": 223,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 440,
+	"attrs": "hit_cirt",
+	"values": "198_264"
+}, {
+	"id": 223,
+	"level": 22,
+	"nid": 224,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 460,
+	"attrs": "hit_cirt",
+	"values": "207_276"
+}, {
+	"id": 224,
+	"level": 23,
+	"nid": 225,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 480,
+	"attrs": "hit_cirt",
+	"values": "216_288"
+}, {
+	"id": 225,
+	"level": 24,
+	"nid": 226,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 500,
+	"attrs": "hit_cirt",
+	"values": "225_300"
+}, {
+	"id": 226,
+	"level": 25,
+	"nid": 227,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 520,
+	"attrs": "hit_cirt",
+	"values": "234_312"
+}, {
+	"id": 227,
+	"level": 26,
+	"nid": 228,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 540,
+	"attrs": "hit_cirt",
+	"values": "243_324"
+}, {
+	"id": 228,
+	"level": 27,
+	"nid": 229,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 560,
+	"attrs": "hit_cirt",
+	"values": "252_336"
+}, {
+	"id": 229,
+	"level": 28,
+	"nid": 230,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 580,
+	"attrs": "hit_cirt",
+	"values": "261_348"
+}, {
+	"id": 230,
+	"level": 29,
+	"nid": 231,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 600,
+	"attrs": "hit_cirt",
+	"values": "270_360"
+}, {
+	"id": 231,
+	"level": 30,
+	"nid": 232,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 620,
+	"attrs": "hit_cirt",
+	"values": "279_372"
+}, {
+	"id": 232,
+	"level": 31,
+	"nid": 233,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 640,
+	"attrs": "hit_cirt",
+	"values": "288_384"
+}, {
+	"id": 233,
+	"level": 32,
+	"nid": 234,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 660,
+	"attrs": "hit_cirt",
+	"values": "297_396"
+}, {
+	"id": 234,
+	"level": 33,
+	"nid": 235,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 680,
+	"attrs": "hit_cirt",
+	"values": "306_408"
+}, {
+	"id": 235,
+	"level": 34,
+	"nid": 236,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 700,
+	"attrs": "hit_cirt",
+	"values": "315_420"
+}, {
+	"id": 236,
+	"level": 35,
+	"nid": 237,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 720,
+	"attrs": "hit_cirt",
+	"values": "324_432"
+}, {
+	"id": 237,
+	"level": 36,
+	"nid": 238,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 740,
+	"attrs": "hit_cirt",
+	"values": "333_444"
+}, {
+	"id": 238,
+	"level": 37,
+	"nid": 239,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 760,
+	"attrs": "hit_cirt",
+	"values": "342_456"
+}, {
+	"id": 239,
+	"level": 38,
+	"nid": 240,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 780,
+	"attrs": "hit_cirt",
+	"values": "351_468"
+}, {
+	"id": 240,
+	"level": 39,
+	"nid": 241,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 800,
+	"attrs": "hit_cirt",
+	"values": "360_480"
+}, {
+	"id": 241,
+	"level": 40,
+	"nid": 242,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 820,
+	"attrs": "hit_cirt",
+	"values": "369_492"
+}, {
+	"id": 242,
+	"level": 41,
+	"nid": 243,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 840,
+	"attrs": "hit_cirt",
+	"values": "378_504"
+}, {
+	"id": 243,
+	"level": 42,
+	"nid": 244,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 860,
+	"attrs": "hit_cirt",
+	"values": "387_516"
+}, {
+	"id": 244,
+	"level": 43,
+	"nid": 245,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 880,
+	"attrs": "hit_cirt",
+	"values": "396_528"
+}, {
+	"id": 245,
+	"level": 44,
+	"nid": 246,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 900,
+	"attrs": "hit_cirt",
+	"values": "405_540"
+}, {
+	"id": 246,
+	"level": 45,
+	"nid": 247,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 920,
+	"attrs": "hit_cirt",
+	"values": "414_552"
+}, {
+	"id": 247,
+	"level": 46,
+	"nid": 248,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 940,
+	"attrs": "hit_cirt",
+	"values": "423_564"
+}, {
+	"id": 248,
+	"level": 47,
+	"nid": 249,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 960,
+	"attrs": "hit_cirt",
+	"values": "432_576"
+}, {
+	"id": 249,
+	"level": 48,
+	"nid": 250,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 980,
+	"attrs": "hit_cirt",
+	"values": "441_588"
+}, {
+	"id": 250,
+	"level": 49,
+	"nid": 251,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1000,
+	"attrs": "hit_cirt",
+	"values": "450_600"
+}, {
+	"id": 251,
+	"level": 50,
+	"nid": 252,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1020,
+	"attrs": "hit_cirt",
+	"values": "459_612"
+}, {
+	"id": 252,
+	"level": 51,
+	"nid": 253,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1040,
+	"attrs": "hit_cirt",
+	"values": "468_624"
+}, {
+	"id": 253,
+	"level": 52,
+	"nid": 254,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1060,
+	"attrs": "hit_cirt",
+	"values": "477_636"
+}, {
+	"id": 254,
+	"level": 53,
+	"nid": 255,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1080,
+	"attrs": "hit_cirt",
+	"values": "486_648"
+}, {
+	"id": 255,
+	"level": 54,
+	"nid": 256,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1100,
+	"attrs": "hit_cirt",
+	"values": "495_660"
+}, {
+	"id": 256,
+	"level": 55,
+	"nid": 257,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1120,
+	"attrs": "hit_cirt",
+	"values": "504_672"
+}, {
+	"id": 257,
+	"level": 56,
+	"nid": 258,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1140,
+	"attrs": "hit_cirt",
+	"values": "513_684"
+}, {
+	"id": 258,
+	"level": 57,
+	"nid": 259,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1160,
+	"attrs": "hit_cirt",
+	"values": "522_696"
+}, {
+	"id": 259,
+	"level": 58,
+	"nid": 260,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1180,
+	"attrs": "hit_cirt",
+	"values": "531_708"
+}, {
+	"id": 260,
+	"level": 59,
+	"nid": 261,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1200,
+	"attrs": "hit_cirt",
+	"values": "540_720"
+}, {
+	"id": 261,
+	"level": 60,
+	"nid": 262,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1220,
+	"attrs": "hit_cirt",
+	"values": "549_732"
+}, {
+	"id": 262,
+	"level": 61,
+	"nid": 263,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1240,
+	"attrs": "hit_cirt",
+	"values": "558_744"
+}, {
+	"id": 263,
+	"level": 62,
+	"nid": 264,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1260,
+	"attrs": "hit_cirt",
+	"values": "567_756"
+}, {
+	"id": 264,
+	"level": 63,
+	"nid": 265,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1280,
+	"attrs": "hit_cirt",
+	"values": "576_768"
+}, {
+	"id": 265,
+	"level": 64,
+	"nid": 266,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1300,
+	"attrs": "hit_cirt",
+	"values": "585_780"
+}, {
+	"id": 266,
+	"level": 65,
+	"nid": 267,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1320,
+	"attrs": "hit_cirt",
+	"values": "594_792"
+}, {
+	"id": 267,
+	"level": 66,
+	"nid": 268,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1340,
+	"attrs": "hit_cirt",
+	"values": "603_804"
+}, {
+	"id": 268,
+	"level": 67,
+	"nid": 269,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1360,
+	"attrs": "hit_cirt",
+	"values": "612_816"
+}, {
+	"id": 269,
+	"level": 68,
+	"nid": 270,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1380,
+	"attrs": "hit_cirt",
+	"values": "621_828"
+}, {
+	"id": 270,
+	"level": 69,
+	"nid": 271,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1400,
+	"attrs": "hit_cirt",
+	"values": "630_840"
+}, {
+	"id": 271,
+	"level": 70,
+	"nid": 272,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1420,
+	"attrs": "hit_cirt",
+	"values": "639_852"
+}, {
+	"id": 272,
+	"level": 71,
+	"nid": 273,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1440,
+	"attrs": "hit_cirt",
+	"values": "648_864"
+}, {
+	"id": 273,
+	"level": 72,
+	"nid": 274,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1460,
+	"attrs": "hit_cirt",
+	"values": "657_876"
+}, {
+	"id": 274,
+	"level": 73,
+	"nid": 275,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1480,
+	"attrs": "hit_cirt",
+	"values": "666_888"
+}, {
+	"id": 275,
+	"level": 74,
+	"nid": 276,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1500,
+	"attrs": "hit_cirt",
+	"values": "675_900"
+}, {
+	"id": 276,
+	"level": 75,
+	"nid": 277,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1520,
+	"attrs": "hit_cirt",
+	"values": "684_912"
+}, {
+	"id": 277,
+	"level": 76,
+	"nid": 278,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1540,
+	"attrs": "hit_cirt",
+	"values": "693_924"
+}, {
+	"id": 278,
+	"level": 77,
+	"nid": 279,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1560,
+	"attrs": "hit_cirt",
+	"values": "702_936"
+}, {
+	"id": 279,
+	"level": 78,
+	"nid": 280,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1580,
+	"attrs": "hit_cirt",
+	"values": "711_948"
+}, {
+	"id": 280,
+	"level": 79,
+	"nid": 281,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1600,
+	"attrs": "hit_cirt",
+	"values": "720_960"
+}, {
+	"id": 281,
+	"level": 80,
+	"nid": 282,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1620,
+	"attrs": "hit_cirt",
+	"values": "729_972"
+}, {
+	"id": 282,
+	"level": 81,
+	"nid": 283,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1640,
+	"attrs": "hit_cirt",
+	"values": "738_984"
+}, {
+	"id": 283,
+	"level": 82,
+	"nid": 284,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1660,
+	"attrs": "hit_cirt",
+	"values": "747_996"
+}, {
+	"id": 284,
+	"level": 83,
+	"nid": 285,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1680,
+	"attrs": "hit_cirt",
+	"values": "756_1008"
+}, {
+	"id": 285,
+	"level": 84,
+	"nid": 286,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1700,
+	"attrs": "hit_cirt",
+	"values": "765_1020"
+}, {
+	"id": 286,
+	"level": 85,
+	"nid": 287,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1720,
+	"attrs": "hit_cirt",
+	"values": "774_1032"
+}, {
+	"id": 287,
+	"level": 86,
+	"nid": 288,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1740,
+	"attrs": "hit_cirt",
+	"values": "783_1044"
+}, {
+	"id": 288,
+	"level": 87,
+	"nid": 289,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1760,
+	"attrs": "hit_cirt",
+	"values": "792_1056"
+}, {
+	"id": 289,
+	"level": 88,
+	"nid": 290,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1780,
+	"attrs": "hit_cirt",
+	"values": "801_1068"
+}, {
+	"id": 290,
+	"level": 89,
+	"nid": 291,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1800,
+	"attrs": "hit_cirt",
+	"values": "810_1080"
+}, {
+	"id": 291,
+	"level": 90,
+	"nid": 292,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1820,
+	"attrs": "hit_cirt",
+	"values": "819_1092"
+}, {
+	"id": 292,
+	"level": 91,
+	"nid": 293,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1840,
+	"attrs": "hit_cirt",
+	"values": "828_1104"
+}, {
+	"id": 293,
+	"level": 92,
+	"nid": 294,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1860,
+	"attrs": "hit_cirt",
+	"values": "837_1116"
+}, {
+	"id": 294,
+	"level": 93,
+	"nid": 295,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1880,
+	"attrs": "hit_cirt",
+	"values": "846_1128"
+}, {
+	"id": 295,
+	"level": 94,
+	"nid": 296,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1900,
+	"attrs": "hit_cirt",
+	"values": "855_1140"
+}, {
+	"id": 296,
+	"level": 95,
+	"nid": 297,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1920,
+	"attrs": "hit_cirt",
+	"values": "864_1152"
+}, {
+	"id": 297,
+	"level": 96,
+	"nid": 298,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1940,
+	"attrs": "hit_cirt",
+	"values": "873_1164"
+}, {
+	"id": 298,
+	"level": 97,
+	"nid": 299,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1960,
+	"attrs": "hit_cirt",
+	"values": "882_1176"
+}, {
+	"id": 299,
+	"level": 98,
+	"nid": 300,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 1980,
+	"attrs": "hit_cirt",
+	"values": "891_1188"
+}, {
+	"id": 300,
+	"level": 99,
+	"nid": 0,
+	"equipPos": 2,
+	"itemId": 602,
+	"itemCost": 2000,
+	"attrs": "hit_cirt",
+	"values": "900_1200"
+}, {
+	"id": 301,
+	"level": 0,
+	"nid": 302,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 20,
+	"attrs": "mp_dodge",
+	"values": "108_3"
+}, {
+	"id": 302,
+	"level": 1,
+	"nid": 303,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 40,
+	"attrs": "mp_dodge",
+	"values": "204_6"
+}, {
+	"id": 303,
+	"level": 2,
+	"nid": 304,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 60,
+	"attrs": "mp_dodge",
+	"values": "300_9"
+}, {
+	"id": 304,
+	"level": 3,
+	"nid": 305,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 80,
+	"attrs": "mp_dodge",
+	"values": "396_12"
+}, {
+	"id": 305,
+	"level": 4,
+	"nid": 306,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 100,
+	"attrs": "mp_dodge",
+	"values": "492_15"
+}, {
+	"id": 306,
+	"level": 5,
+	"nid": 307,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 120,
+	"attrs": "mp_dodge",
+	"values": "588_18"
+}, {
+	"id": 307,
+	"level": 6,
+	"nid": 308,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 140,
+	"attrs": "mp_dodge",
+	"values": "684_21"
+}, {
+	"id": 308,
+	"level": 7,
+	"nid": 309,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 160,
+	"attrs": "mp_dodge",
+	"values": "780_24"
+}, {
+	"id": 309,
+	"level": 8,
+	"nid": 310,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 180,
+	"attrs": "mp_dodge",
+	"values": "876_27"
+}, {
+	"id": 310,
+	"level": 9,
+	"nid": 311,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 200,
+	"attrs": "mp_dodge",
+	"values": "972_30"
+}, {
+	"id": 311,
+	"level": 10,
+	"nid": 312,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 220,
+	"attrs": "mp_dodge",
+	"values": "1068_33"
+}, {
+	"id": 312,
+	"level": 11,
+	"nid": 313,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 240,
+	"attrs": "mp_dodge",
+	"values": "1164_36"
+}, {
+	"id": 313,
+	"level": 12,
+	"nid": 314,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 260,
+	"attrs": "mp_dodge",
+	"values": "1260_39"
+}, {
+	"id": 314,
+	"level": 13,
+	"nid": 315,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 280,
+	"attrs": "mp_dodge",
+	"values": "1356_42"
+}, {
+	"id": 315,
+	"level": 14,
+	"nid": 316,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 300,
+	"attrs": "mp_dodge",
+	"values": "1452_45"
+}, {
+	"id": 316,
+	"level": 15,
+	"nid": 317,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 320,
+	"attrs": "mp_dodge",
+	"values": "1548_48"
+}, {
+	"id": 317,
+	"level": 16,
+	"nid": 318,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 340,
+	"attrs": "mp_dodge",
+	"values": "1644_51"
+}, {
+	"id": 318,
+	"level": 17,
+	"nid": 319,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 360,
+	"attrs": "mp_dodge",
+	"values": "1740_54"
+}, {
+	"id": 319,
+	"level": 18,
+	"nid": 320,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 380,
+	"attrs": "mp_dodge",
+	"values": "1836_57"
+}, {
+	"id": 320,
+	"level": 19,
+	"nid": 321,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 400,
+	"attrs": "mp_dodge",
+	"values": "1932_60"
+}, {
+	"id": 321,
+	"level": 20,
+	"nid": 322,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 420,
+	"attrs": "mp_dodge",
+	"values": "2028_63"
+}, {
+	"id": 322,
+	"level": 21,
+	"nid": 323,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 440,
+	"attrs": "mp_dodge",
+	"values": "2124_66"
+}, {
+	"id": 323,
+	"level": 22,
+	"nid": 324,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 460,
+	"attrs": "mp_dodge",
+	"values": "2220_69"
+}, {
+	"id": 324,
+	"level": 23,
+	"nid": 325,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 480,
+	"attrs": "mp_dodge",
+	"values": "2316_72"
+}, {
+	"id": 325,
+	"level": 24,
+	"nid": 326,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 500,
+	"attrs": "mp_dodge",
+	"values": "2412_75"
+}, {
+	"id": 326,
+	"level": 25,
+	"nid": 327,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 520,
+	"attrs": "mp_dodge",
+	"values": "2508_78"
+}, {
+	"id": 327,
+	"level": 26,
+	"nid": 328,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 540,
+	"attrs": "mp_dodge",
+	"values": "2604_81"
+}, {
+	"id": 328,
+	"level": 27,
+	"nid": 329,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 560,
+	"attrs": "mp_dodge",
+	"values": "2700_84"
+}, {
+	"id": 329,
+	"level": 28,
+	"nid": 330,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 580,
+	"attrs": "mp_dodge",
+	"values": "2796_87"
+}, {
+	"id": 330,
+	"level": 29,
+	"nid": 331,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 600,
+	"attrs": "mp_dodge",
+	"values": "2892_90"
+}, {
+	"id": 331,
+	"level": 30,
+	"nid": 332,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 620,
+	"attrs": "mp_dodge",
+	"values": "2988_93"
+}, {
+	"id": 332,
+	"level": 31,
+	"nid": 333,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 640,
+	"attrs": "mp_dodge",
+	"values": "3084_96"
+}, {
+	"id": 333,
+	"level": 32,
+	"nid": 334,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 660,
+	"attrs": "mp_dodge",
+	"values": "3180_99"
+}, {
+	"id": 334,
+	"level": 33,
+	"nid": 335,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 680,
+	"attrs": "mp_dodge",
+	"values": "3276_102"
+}, {
+	"id": 335,
+	"level": 34,
+	"nid": 336,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 700,
+	"attrs": "mp_dodge",
+	"values": "3372_105"
+}, {
+	"id": 336,
+	"level": 35,
+	"nid": 337,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 720,
+	"attrs": "mp_dodge",
+	"values": "3468_108"
+}, {
+	"id": 337,
+	"level": 36,
+	"nid": 338,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 740,
+	"attrs": "mp_dodge",
+	"values": "3564_111"
+}, {
+	"id": 338,
+	"level": 37,
+	"nid": 339,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 760,
+	"attrs": "mp_dodge",
+	"values": "3660_114"
+}, {
+	"id": 339,
+	"level": 38,
+	"nid": 340,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 780,
+	"attrs": "mp_dodge",
+	"values": "3756_117"
+}, {
+	"id": 340,
+	"level": 39,
+	"nid": 341,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 800,
+	"attrs": "mp_dodge",
+	"values": "3852_120"
+}, {
+	"id": 341,
+	"level": 40,
+	"nid": 342,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 820,
+	"attrs": "mp_dodge",
+	"values": "3948_123"
+}, {
+	"id": 342,
+	"level": 41,
+	"nid": 343,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 840,
+	"attrs": "mp_dodge",
+	"values": "4044_126"
+}, {
+	"id": 343,
+	"level": 42,
+	"nid": 344,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 860,
+	"attrs": "mp_dodge",
+	"values": "4140_129"
+}, {
+	"id": 344,
+	"level": 43,
+	"nid": 345,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 880,
+	"attrs": "mp_dodge",
+	"values": "4236_132"
+}, {
+	"id": 345,
+	"level": 44,
+	"nid": 346,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 900,
+	"attrs": "mp_dodge",
+	"values": "4332_135"
+}, {
+	"id": 346,
+	"level": 45,
+	"nid": 347,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 920,
+	"attrs": "mp_dodge",
+	"values": "4428_138"
+}, {
+	"id": 347,
+	"level": 46,
+	"nid": 348,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 940,
+	"attrs": "mp_dodge",
+	"values": "4524_141"
+}, {
+	"id": 348,
+	"level": 47,
+	"nid": 349,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 960,
+	"attrs": "mp_dodge",
+	"values": "4620_144"
+}, {
+	"id": 349,
+	"level": 48,
+	"nid": 350,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 980,
+	"attrs": "mp_dodge",
+	"values": "4716_147"
+}, {
+	"id": 350,
+	"level": 49,
+	"nid": 351,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1000,
+	"attrs": "mp_dodge",
+	"values": "4812_150"
+}, {
+	"id": 351,
+	"level": 50,
+	"nid": 352,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1020,
+	"attrs": "mp_dodge",
+	"values": "4908_153"
+}, {
+	"id": 352,
+	"level": 51,
+	"nid": 353,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1040,
+	"attrs": "mp_dodge",
+	"values": "5004_156"
+}, {
+	"id": 353,
+	"level": 52,
+	"nid": 354,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1060,
+	"attrs": "mp_dodge",
+	"values": "5100_159"
+}, {
+	"id": 354,
+	"level": 53,
+	"nid": 355,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1080,
+	"attrs": "mp_dodge",
+	"values": "5196_162"
+}, {
+	"id": 355,
+	"level": 54,
+	"nid": 356,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1100,
+	"attrs": "mp_dodge",
+	"values": "5292_165"
+}, {
+	"id": 356,
+	"level": 55,
+	"nid": 357,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1120,
+	"attrs": "mp_dodge",
+	"values": "5388_168"
+}, {
+	"id": 357,
+	"level": 56,
+	"nid": 358,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1140,
+	"attrs": "mp_dodge",
+	"values": "5484_171"
+}, {
+	"id": 358,
+	"level": 57,
+	"nid": 359,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1160,
+	"attrs": "mp_dodge",
+	"values": "5580_174"
+}, {
+	"id": 359,
+	"level": 58,
+	"nid": 360,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1180,
+	"attrs": "mp_dodge",
+	"values": "5676_177"
+}, {
+	"id": 360,
+	"level": 59,
+	"nid": 361,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1200,
+	"attrs": "mp_dodge",
+	"values": "5772_180"
+}, {
+	"id": 361,
+	"level": 60,
+	"nid": 362,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1220,
+	"attrs": "mp_dodge",
+	"values": "5868_183"
+}, {
+	"id": 362,
+	"level": 61,
+	"nid": 363,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1240,
+	"attrs": "mp_dodge",
+	"values": "5964_186"
+}, {
+	"id": 363,
+	"level": 62,
+	"nid": 364,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1260,
+	"attrs": "mp_dodge",
+	"values": "6060_189"
+}, {
+	"id": 364,
+	"level": 63,
+	"nid": 365,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1280,
+	"attrs": "mp_dodge",
+	"values": "6156_192"
+}, {
+	"id": 365,
+	"level": 64,
+	"nid": 366,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1300,
+	"attrs": "mp_dodge",
+	"values": "6252_195"
+}, {
+	"id": 366,
+	"level": 65,
+	"nid": 367,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1320,
+	"attrs": "mp_dodge",
+	"values": "6348_198"
+}, {
+	"id": 367,
+	"level": 66,
+	"nid": 368,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1340,
+	"attrs": "mp_dodge",
+	"values": "6444_201"
+}, {
+	"id": 368,
+	"level": 67,
+	"nid": 369,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1360,
+	"attrs": "mp_dodge",
+	"values": "6540_204"
+}, {
+	"id": 369,
+	"level": 68,
+	"nid": 370,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1380,
+	"attrs": "mp_dodge",
+	"values": "6636_207"
+}, {
+	"id": 370,
+	"level": 69,
+	"nid": 371,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1400,
+	"attrs": "mp_dodge",
+	"values": "6732_210"
+}, {
+	"id": 371,
+	"level": 70,
+	"nid": 372,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1420,
+	"attrs": "mp_dodge",
+	"values": "6828_213"
+}, {
+	"id": 372,
+	"level": 71,
+	"nid": 373,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1440,
+	"attrs": "mp_dodge",
+	"values": "6924_216"
+}, {
+	"id": 373,
+	"level": 72,
+	"nid": 374,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1460,
+	"attrs": "mp_dodge",
+	"values": "7020_219"
+}, {
+	"id": 374,
+	"level": 73,
+	"nid": 375,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1480,
+	"attrs": "mp_dodge",
+	"values": "7116_222"
+}, {
+	"id": 375,
+	"level": 74,
+	"nid": 376,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1500,
+	"attrs": "mp_dodge",
+	"values": "7212_225"
+}, {
+	"id": 376,
+	"level": 75,
+	"nid": 377,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1520,
+	"attrs": "mp_dodge",
+	"values": "7308_228"
+}, {
+	"id": 377,
+	"level": 76,
+	"nid": 378,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1540,
+	"attrs": "mp_dodge",
+	"values": "7404_231"
+}, {
+	"id": 378,
+	"level": 77,
+	"nid": 379,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1560,
+	"attrs": "mp_dodge",
+	"values": "7500_234"
+}, {
+	"id": 379,
+	"level": 78,
+	"nid": 380,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1580,
+	"attrs": "mp_dodge",
+	"values": "7596_237"
+}, {
+	"id": 380,
+	"level": 79,
+	"nid": 381,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1600,
+	"attrs": "mp_dodge",
+	"values": "7692_240"
+}, {
+	"id": 381,
+	"level": 80,
+	"nid": 382,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1620,
+	"attrs": "mp_dodge",
+	"values": "7788_243"
+}, {
+	"id": 382,
+	"level": 81,
+	"nid": 383,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1640,
+	"attrs": "mp_dodge",
+	"values": "7884_246"
+}, {
+	"id": 383,
+	"level": 82,
+	"nid": 384,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1660,
+	"attrs": "mp_dodge",
+	"values": "7980_249"
+}, {
+	"id": 384,
+	"level": 83,
+	"nid": 385,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1680,
+	"attrs": "mp_dodge",
+	"values": "8076_252"
+}, {
+	"id": 385,
+	"level": 84,
+	"nid": 386,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1700,
+	"attrs": "mp_dodge",
+	"values": "8172_255"
+}, {
+	"id": 386,
+	"level": 85,
+	"nid": 387,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1720,
+	"attrs": "mp_dodge",
+	"values": "8268_258"
+}, {
+	"id": 387,
+	"level": 86,
+	"nid": 388,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1740,
+	"attrs": "mp_dodge",
+	"values": "8364_261"
+}, {
+	"id": 388,
+	"level": 87,
+	"nid": 389,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1760,
+	"attrs": "mp_dodge",
+	"values": "8460_264"
+}, {
+	"id": 389,
+	"level": 88,
+	"nid": 390,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1780,
+	"attrs": "mp_dodge",
+	"values": "8556_267"
+}, {
+	"id": 390,
+	"level": 89,
+	"nid": 391,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1800,
+	"attrs": "mp_dodge",
+	"values": "8652_270"
+}, {
+	"id": 391,
+	"level": 90,
+	"nid": 392,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1820,
+	"attrs": "mp_dodge",
+	"values": "8748_273"
+}, {
+	"id": 392,
+	"level": 91,
+	"nid": 393,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1840,
+	"attrs": "mp_dodge",
+	"values": "8844_276"
+}, {
+	"id": 393,
+	"level": 92,
+	"nid": 394,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1860,
+	"attrs": "mp_dodge",
+	"values": "8940_279"
+}, {
+	"id": 394,
+	"level": 93,
+	"nid": 395,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1880,
+	"attrs": "mp_dodge",
+	"values": "9036_282"
+}, {
+	"id": 395,
+	"level": 94,
+	"nid": 396,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1900,
+	"attrs": "mp_dodge",
+	"values": "9132_285"
+}, {
+	"id": 396,
+	"level": 95,
+	"nid": 397,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1920,
+	"attrs": "mp_dodge",
+	"values": "9228_288"
+}, {
+	"id": 397,
+	"level": 96,
+	"nid": 398,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1940,
+	"attrs": "mp_dodge",
+	"values": "9324_291"
+}, {
+	"id": 398,
+	"level": 97,
+	"nid": 399,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1960,
+	"attrs": "mp_dodge",
+	"values": "9420_294"
+}, {
+	"id": 399,
+	"level": 98,
+	"nid": 400,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 1980,
+	"attrs": "mp_dodge",
+	"values": "9516_297"
+}, {
+	"id": 400,
+	"level": 99,
+	"nid": 0,
+	"equipPos": 3,
+	"itemId": 602,
+	"itemCost": 2000,
+	"attrs": "mp_dodge",
+	"values": "9612_300"
+}, {
+	"id": 401,
+	"level": 0,
+	"nid": 402,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 20,
+	"attrs": "kCirk_def",
+	"values": "9_12"
+}, {
+	"id": 402,
+	"level": 1,
+	"nid": 403,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 40,
+	"attrs": "kCirk_def",
+	"values": "21_24"
+}, {
+	"id": 403,
+	"level": 2,
+	"nid": 404,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 60,
+	"attrs": "kCirk_def",
+	"values": "33_36"
+}, {
+	"id": 404,
+	"level": 3,
+	"nid": 405,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 80,
+	"attrs": "kCirk_def",
+	"values": "45_48"
+}, {
+	"id": 405,
+	"level": 4,
+	"nid": 406,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 100,
+	"attrs": "kCirk_def",
+	"values": "57_60"
+}, {
+	"id": 406,
+	"level": 5,
+	"nid": 407,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 120,
+	"attrs": "kCirk_def",
+	"values": "69_72"
+}, {
+	"id": 407,
+	"level": 6,
+	"nid": 408,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 140,
+	"attrs": "kCirk_def",
+	"values": "81_84"
+}, {
+	"id": 408,
+	"level": 7,
+	"nid": 409,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 160,
+	"attrs": "kCirk_def",
+	"values": "93_96"
+}, {
+	"id": 409,
+	"level": 8,
+	"nid": 410,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 180,
+	"attrs": "kCirk_def",
+	"values": "105_108"
+}, {
+	"id": 410,
+	"level": 9,
+	"nid": 411,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 200,
+	"attrs": "kCirk_def",
+	"values": "117_120"
+}, {
+	"id": 411,
+	"level": 10,
+	"nid": 412,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 220,
+	"attrs": "kCirk_def",
+	"values": "129_132"
+}, {
+	"id": 412,
+	"level": 11,
+	"nid": 413,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 240,
+	"attrs": "kCirk_def",
+	"values": "141_144"
+}, {
+	"id": 413,
+	"level": 12,
+	"nid": 414,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 260,
+	"attrs": "kCirk_def",
+	"values": "153_156"
+}, {
+	"id": 414,
+	"level": 13,
+	"nid": 415,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 280,
+	"attrs": "kCirk_def",
+	"values": "165_168"
+}, {
+	"id": 415,
+	"level": 14,
+	"nid": 416,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 300,
+	"attrs": "kCirk_def",
+	"values": "177_180"
+}, {
+	"id": 416,
+	"level": 15,
+	"nid": 417,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 320,
+	"attrs": "kCirk_def",
+	"values": "189_192"
+}, {
+	"id": 417,
+	"level": 16,
+	"nid": 418,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 340,
+	"attrs": "kCirk_def",
+	"values": "201_204"
+}, {
+	"id": 418,
+	"level": 17,
+	"nid": 419,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 360,
+	"attrs": "kCirk_def",
+	"values": "213_216"
+}, {
+	"id": 419,
+	"level": 18,
+	"nid": 420,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 380,
+	"attrs": "kCirk_def",
+	"values": "225_228"
+}, {
+	"id": 420,
+	"level": 19,
+	"nid": 421,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 400,
+	"attrs": "kCirk_def",
+	"values": "237_240"
+}, {
+	"id": 421,
+	"level": 20,
+	"nid": 422,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 420,
+	"attrs": "kCirk_def",
+	"values": "249_252"
+}, {
+	"id": 422,
+	"level": 21,
+	"nid": 423,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 440,
+	"attrs": "kCirk_def",
+	"values": "261_264"
+}, {
+	"id": 423,
+	"level": 22,
+	"nid": 424,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 460,
+	"attrs": "kCirk_def",
+	"values": "273_276"
+}, {
+	"id": 424,
+	"level": 23,
+	"nid": 425,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 480,
+	"attrs": "kCirk_def",
+	"values": "285_288"
+}, {
+	"id": 425,
+	"level": 24,
+	"nid": 426,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 500,
+	"attrs": "kCirk_def",
+	"values": "297_300"
+}, {
+	"id": 426,
+	"level": 25,
+	"nid": 427,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 520,
+	"attrs": "kCirk_def",
+	"values": "309_312"
+}, {
+	"id": 427,
+	"level": 26,
+	"nid": 428,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 540,
+	"attrs": "kCirk_def",
+	"values": "321_324"
+}, {
+	"id": 428,
+	"level": 27,
+	"nid": 429,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 560,
+	"attrs": "kCirk_def",
+	"values": "333_336"
+}, {
+	"id": 429,
+	"level": 28,
+	"nid": 430,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 580,
+	"attrs": "kCirk_def",
+	"values": "345_348"
+}, {
+	"id": 430,
+	"level": 29,
+	"nid": 431,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 600,
+	"attrs": "kCirk_def",
+	"values": "357_360"
+}, {
+	"id": 431,
+	"level": 30,
+	"nid": 432,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 620,
+	"attrs": "kCirk_def",
+	"values": "369_372"
+}, {
+	"id": 432,
+	"level": 31,
+	"nid": 433,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 640,
+	"attrs": "kCirk_def",
+	"values": "381_384"
+}, {
+	"id": 433,
+	"level": 32,
+	"nid": 434,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 660,
+	"attrs": "kCirk_def",
+	"values": "393_396"
+}, {
+	"id": 434,
+	"level": 33,
+	"nid": 435,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 680,
+	"attrs": "kCirk_def",
+	"values": "405_408"
+}, {
+	"id": 435,
+	"level": 34,
+	"nid": 436,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 700,
+	"attrs": "kCirk_def",
+	"values": "417_420"
+}, {
+	"id": 436,
+	"level": 35,
+	"nid": 437,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 720,
+	"attrs": "kCirk_def",
+	"values": "429_432"
+}, {
+	"id": 437,
+	"level": 36,
+	"nid": 438,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 740,
+	"attrs": "kCirk_def",
+	"values": "441_444"
+}, {
+	"id": 438,
+	"level": 37,
+	"nid": 439,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 760,
+	"attrs": "kCirk_def",
+	"values": "453_456"
+}, {
+	"id": 439,
+	"level": 38,
+	"nid": 440,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 780,
+	"attrs": "kCirk_def",
+	"values": "465_468"
+}, {
+	"id": 440,
+	"level": 39,
+	"nid": 441,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 800,
+	"attrs": "kCirk_def",
+	"values": "477_480"
+}, {
+	"id": 441,
+	"level": 40,
+	"nid": 442,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 820,
+	"attrs": "kCirk_def",
+	"values": "489_492"
+}, {
+	"id": 442,
+	"level": 41,
+	"nid": 443,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 840,
+	"attrs": "kCirk_def",
+	"values": "501_504"
+}, {
+	"id": 443,
+	"level": 42,
+	"nid": 444,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 860,
+	"attrs": "kCirk_def",
+	"values": "513_516"
+}, {
+	"id": 444,
+	"level": 43,
+	"nid": 445,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 880,
+	"attrs": "kCirk_def",
+	"values": "525_528"
+}, {
+	"id": 445,
+	"level": 44,
+	"nid": 446,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 900,
+	"attrs": "kCirk_def",
+	"values": "537_540"
+}, {
+	"id": 446,
+	"level": 45,
+	"nid": 447,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 920,
+	"attrs": "kCirk_def",
+	"values": "549_552"
+}, {
+	"id": 447,
+	"level": 46,
+	"nid": 448,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 940,
+	"attrs": "kCirk_def",
+	"values": "561_564"
+}, {
+	"id": 448,
+	"level": 47,
+	"nid": 449,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 960,
+	"attrs": "kCirk_def",
+	"values": "573_576"
+}, {
+	"id": 449,
+	"level": 48,
+	"nid": 450,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 980,
+	"attrs": "kCirk_def",
+	"values": "585_588"
+}, {
+	"id": 450,
+	"level": 49,
+	"nid": 451,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1000,
+	"attrs": "kCirk_def",
+	"values": "597_600"
+}, {
+	"id": 451,
+	"level": 50,
+	"nid": 452,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1020,
+	"attrs": "kCirk_def",
+	"values": "609_612"
+}, {
+	"id": 452,
+	"level": 51,
+	"nid": 453,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1040,
+	"attrs": "kCirk_def",
+	"values": "621_624"
+}, {
+	"id": 453,
+	"level": 52,
+	"nid": 454,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1060,
+	"attrs": "kCirk_def",
+	"values": "633_636"
+}, {
+	"id": 454,
+	"level": 53,
+	"nid": 455,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1080,
+	"attrs": "kCirk_def",
+	"values": "645_648"
+}, {
+	"id": 455,
+	"level": 54,
+	"nid": 456,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1100,
+	"attrs": "kCirk_def",
+	"values": "657_660"
+}, {
+	"id": 456,
+	"level": 55,
+	"nid": 457,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1120,
+	"attrs": "kCirk_def",
+	"values": "669_672"
+}, {
+	"id": 457,
+	"level": 56,
+	"nid": 458,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1140,
+	"attrs": "kCirk_def",
+	"values": "681_684"
+}, {
+	"id": 458,
+	"level": 57,
+	"nid": 459,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1160,
+	"attrs": "kCirk_def",
+	"values": "693_696"
+}, {
+	"id": 459,
+	"level": 58,
+	"nid": 460,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1180,
+	"attrs": "kCirk_def",
+	"values": "705_708"
+}, {
+	"id": 460,
+	"level": 59,
+	"nid": 461,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1200,
+	"attrs": "kCirk_def",
+	"values": "717_720"
+}, {
+	"id": 461,
+	"level": 60,
+	"nid": 462,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1220,
+	"attrs": "kCirk_def",
+	"values": "729_732"
+}, {
+	"id": 462,
+	"level": 61,
+	"nid": 463,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1240,
+	"attrs": "kCirk_def",
+	"values": "741_744"
+}, {
+	"id": 463,
+	"level": 62,
+	"nid": 464,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1260,
+	"attrs": "kCirk_def",
+	"values": "753_756"
+}, {
+	"id": 464,
+	"level": 63,
+	"nid": 465,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1280,
+	"attrs": "kCirk_def",
+	"values": "765_768"
+}, {
+	"id": 465,
+	"level": 64,
+	"nid": 466,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1300,
+	"attrs": "kCirk_def",
+	"values": "777_780"
+}, {
+	"id": 466,
+	"level": 65,
+	"nid": 467,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1320,
+	"attrs": "kCirk_def",
+	"values": "789_792"
+}, {
+	"id": 467,
+	"level": 66,
+	"nid": 468,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1340,
+	"attrs": "kCirk_def",
+	"values": "801_804"
+}, {
+	"id": 468,
+	"level": 67,
+	"nid": 469,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1360,
+	"attrs": "kCirk_def",
+	"values": "813_816"
+}, {
+	"id": 469,
+	"level": 68,
+	"nid": 470,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1380,
+	"attrs": "kCirk_def",
+	"values": "825_828"
+}, {
+	"id": 470,
+	"level": 69,
+	"nid": 471,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1400,
+	"attrs": "kCirk_def",
+	"values": "837_840"
+}, {
+	"id": 471,
+	"level": 70,
+	"nid": 472,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1420,
+	"attrs": "kCirk_def",
+	"values": "849_852"
+}, {
+	"id": 472,
+	"level": 71,
+	"nid": 473,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1440,
+	"attrs": "kCirk_def",
+	"values": "861_864"
+}, {
+	"id": 473,
+	"level": 72,
+	"nid": 474,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1460,
+	"attrs": "kCirk_def",
+	"values": "873_876"
+}, {
+	"id": 474,
+	"level": 73,
+	"nid": 475,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1480,
+	"attrs": "kCirk_def",
+	"values": "885_888"
+}, {
+	"id": 475,
+	"level": 74,
+	"nid": 476,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1500,
+	"attrs": "kCirk_def",
+	"values": "897_900"
+}, {
+	"id": 476,
+	"level": 75,
+	"nid": 477,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1520,
+	"attrs": "kCirk_def",
+	"values": "909_912"
+}, {
+	"id": 477,
+	"level": 76,
+	"nid": 478,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1540,
+	"attrs": "kCirk_def",
+	"values": "921_924"
+}, {
+	"id": 478,
+	"level": 77,
+	"nid": 479,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1560,
+	"attrs": "kCirk_def",
+	"values": "933_936"
+}, {
+	"id": 479,
+	"level": 78,
+	"nid": 480,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1580,
+	"attrs": "kCirk_def",
+	"values": "945_948"
+}, {
+	"id": 480,
+	"level": 79,
+	"nid": 481,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1600,
+	"attrs": "kCirk_def",
+	"values": "957_960"
+}, {
+	"id": 481,
+	"level": 80,
+	"nid": 482,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1620,
+	"attrs": "kCirk_def",
+	"values": "969_972"
+}, {
+	"id": 482,
+	"level": 81,
+	"nid": 483,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1640,
+	"attrs": "kCirk_def",
+	"values": "981_984"
+}, {
+	"id": 483,
+	"level": 82,
+	"nid": 484,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1660,
+	"attrs": "kCirk_def",
+	"values": "993_996"
+}, {
+	"id": 484,
+	"level": 83,
+	"nid": 485,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1680,
+	"attrs": "kCirk_def",
+	"values": "1005_1008"
+}, {
+	"id": 485,
+	"level": 84,
+	"nid": 486,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1700,
+	"attrs": "kCirk_def",
+	"values": "1017_1020"
+}, {
+	"id": 486,
+	"level": 85,
+	"nid": 487,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1720,
+	"attrs": "kCirk_def",
+	"values": "1029_1032"
+}, {
+	"id": 487,
+	"level": 86,
+	"nid": 488,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1740,
+	"attrs": "kCirk_def",
+	"values": "1041_1044"
+}, {
+	"id": 488,
+	"level": 87,
+	"nid": 489,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1760,
+	"attrs": "kCirk_def",
+	"values": "1053_1056"
+}, {
+	"id": 489,
+	"level": 88,
+	"nid": 490,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1780,
+	"attrs": "kCirk_def",
+	"values": "1065_1068"
+}, {
+	"id": 490,
+	"level": 89,
+	"nid": 491,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1800,
+	"attrs": "kCirk_def",
+	"values": "1077_1080"
+}, {
+	"id": 491,
+	"level": 90,
+	"nid": 492,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1820,
+	"attrs": "kCirk_def",
+	"values": "1089_1092"
+}, {
+	"id": 492,
+	"level": 91,
+	"nid": 493,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1840,
+	"attrs": "kCirk_def",
+	"values": "1101_1104"
+}, {
+	"id": 493,
+	"level": 92,
+	"nid": 494,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1860,
+	"attrs": "kCirk_def",
+	"values": "1113_1116"
+}, {
+	"id": 494,
+	"level": 93,
+	"nid": 495,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1880,
+	"attrs": "kCirk_def",
+	"values": "1125_1128"
+}, {
+	"id": 495,
+	"level": 94,
+	"nid": 496,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1900,
+	"attrs": "kCirk_def",
+	"values": "1137_1140"
+}, {
+	"id": 496,
+	"level": 95,
+	"nid": 497,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1920,
+	"attrs": "kCirk_def",
+	"values": "1149_1152"
+}, {
+	"id": 497,
+	"level": 96,
+	"nid": 498,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1940,
+	"attrs": "kCirk_def",
+	"values": "1161_1164"
+}, {
+	"id": 498,
+	"level": 97,
+	"nid": 499,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1960,
+	"attrs": "kCirk_def",
+	"values": "1173_1176"
+}, {
+	"id": 499,
+	"level": 98,
+	"nid": 500,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 1980,
+	"attrs": "kCirk_def",
+	"values": "1185_1188"
+}, {
+	"id": 500,
+	"level": 99,
+	"nid": 0,
+	"equipPos": 4,
+	"itemId": 602,
+	"itemCost": 2000,
+	"attrs": "kCirk_def",
+	"values": "1197_1200"
+}, {
+	"id": 501,
+	"level": 0,
+	"nid": 502,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 20,
+	"attrs": "hp_mp",
+	"values": "246_108"
+}, {
+	"id": 502,
+	"level": 1,
+	"nid": 503,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 40,
+	"attrs": "hp_mp",
+	"values": "492_204"
+}, {
+	"id": 503,
+	"level": 2,
+	"nid": 504,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 60,
+	"attrs": "hp_mp",
+	"values": "738_300"
+}, {
+	"id": 504,
+	"level": 3,
+	"nid": 505,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 80,
+	"attrs": "hp_mp",
+	"values": "984_396"
+}, {
+	"id": 505,
+	"level": 4,
+	"nid": 506,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 100,
+	"attrs": "hp_mp",
+	"values": "1230_492"
+}, {
+	"id": 506,
+	"level": 5,
+	"nid": 507,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 120,
+	"attrs": "hp_mp",
+	"values": "1476_588"
+}, {
+	"id": 507,
+	"level": 6,
+	"nid": 508,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 140,
+	"attrs": "hp_mp",
+	"values": "1722_684"
+}, {
+	"id": 508,
+	"level": 7,
+	"nid": 509,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 160,
+	"attrs": "hp_mp",
+	"values": "1968_780"
+}, {
+	"id": 509,
+	"level": 8,
+	"nid": 510,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 180,
+	"attrs": "hp_mp",
+	"values": "2214_876"
+}, {
+	"id": 510,
+	"level": 9,
+	"nid": 511,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 200,
+	"attrs": "hp_mp",
+	"values": "2460_972"
+}, {
+	"id": 511,
+	"level": 10,
+	"nid": 512,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 220,
+	"attrs": "hp_mp",
+	"values": "2706_1068"
+}, {
+	"id": 512,
+	"level": 11,
+	"nid": 513,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 240,
+	"attrs": "hp_mp",
+	"values": "2952_1164"
+}, {
+	"id": 513,
+	"level": 12,
+	"nid": 514,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 260,
+	"attrs": "hp_mp",
+	"values": "3198_1260"
+}, {
+	"id": 514,
+	"level": 13,
+	"nid": 515,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 280,
+	"attrs": "hp_mp",
+	"values": "3444_1356"
+}, {
+	"id": 515,
+	"level": 14,
+	"nid": 516,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 300,
+	"attrs": "hp_mp",
+	"values": "3690_1452"
+}, {
+	"id": 516,
+	"level": 15,
+	"nid": 517,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 320,
+	"attrs": "hp_mp",
+	"values": "3936_1548"
+}, {
+	"id": 517,
+	"level": 16,
+	"nid": 518,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 340,
+	"attrs": "hp_mp",
+	"values": "4182_1644"
+}, {
+	"id": 518,
+	"level": 17,
+	"nid": 519,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 360,
+	"attrs": "hp_mp",
+	"values": "4428_1740"
+}, {
+	"id": 519,
+	"level": 18,
+	"nid": 520,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 380,
+	"attrs": "hp_mp",
+	"values": "4674_1836"
+}, {
+	"id": 520,
+	"level": 19,
+	"nid": 521,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 400,
+	"attrs": "hp_mp",
+	"values": "4920_1932"
+}, {
+	"id": 521,
+	"level": 20,
+	"nid": 522,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 420,
+	"attrs": "hp_mp",
+	"values": "5166_2028"
+}, {
+	"id": 522,
+	"level": 21,
+	"nid": 523,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 440,
+	"attrs": "hp_mp",
+	"values": "5412_2124"
+}, {
+	"id": 523,
+	"level": 22,
+	"nid": 524,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 460,
+	"attrs": "hp_mp",
+	"values": "5658_2220"
+}, {
+	"id": 524,
+	"level": 23,
+	"nid": 525,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 480,
+	"attrs": "hp_mp",
+	"values": "5904_2316"
+}, {
+	"id": 525,
+	"level": 24,
+	"nid": 526,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 500,
+	"attrs": "hp_mp",
+	"values": "6150_2412"
+}, {
+	"id": 526,
+	"level": 25,
+	"nid": 527,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 520,
+	"attrs": "hp_mp",
+	"values": "6396_2508"
+}, {
+	"id": 527,
+	"level": 26,
+	"nid": 528,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 540,
+	"attrs": "hp_mp",
+	"values": "6642_2604"
+}, {
+	"id": 528,
+	"level": 27,
+	"nid": 529,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 560,
+	"attrs": "hp_mp",
+	"values": "6888_2700"
+}, {
+	"id": 529,
+	"level": 28,
+	"nid": 530,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 580,
+	"attrs": "hp_mp",
+	"values": "7134_2796"
+}, {
+	"id": 530,
+	"level": 29,
+	"nid": 531,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 600,
+	"attrs": "hp_mp",
+	"values": "7380_2892"
+}, {
+	"id": 531,
+	"level": 30,
+	"nid": 532,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 620,
+	"attrs": "hp_mp",
+	"values": "7626_2988"
+}, {
+	"id": 532,
+	"level": 31,
+	"nid": 533,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 640,
+	"attrs": "hp_mp",
+	"values": "7872_3084"
+}, {
+	"id": 533,
+	"level": 32,
+	"nid": 534,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 660,
+	"attrs": "hp_mp",
+	"values": "8118_3180"
+}, {
+	"id": 534,
+	"level": 33,
+	"nid": 535,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 680,
+	"attrs": "hp_mp",
+	"values": "8364_3276"
+}, {
+	"id": 535,
+	"level": 34,
+	"nid": 536,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 700,
+	"attrs": "hp_mp",
+	"values": "8610_3372"
+}, {
+	"id": 536,
+	"level": 35,
+	"nid": 537,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 720,
+	"attrs": "hp_mp",
+	"values": "8856_3468"
+}, {
+	"id": 537,
+	"level": 36,
+	"nid": 538,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 740,
+	"attrs": "hp_mp",
+	"values": "9102_3564"
+}, {
+	"id": 538,
+	"level": 37,
+	"nid": 539,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 760,
+	"attrs": "hp_mp",
+	"values": "9348_3660"
+}, {
+	"id": 539,
+	"level": 38,
+	"nid": 540,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 780,
+	"attrs": "hp_mp",
+	"values": "9594_3756"
+}, {
+	"id": 540,
+	"level": 39,
+	"nid": 541,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 800,
+	"attrs": "hp_mp",
+	"values": "9840_3852"
+}, {
+	"id": 541,
+	"level": 40,
+	"nid": 542,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 820,
+	"attrs": "hp_mp",
+	"values": "10086_3948"
+}, {
+	"id": 542,
+	"level": 41,
+	"nid": 543,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 840,
+	"attrs": "hp_mp",
+	"values": "10332_4044"
+}, {
+	"id": 543,
+	"level": 42,
+	"nid": 544,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 860,
+	"attrs": "hp_mp",
+	"values": "10578_4140"
+}, {
+	"id": 544,
+	"level": 43,
+	"nid": 545,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 880,
+	"attrs": "hp_mp",
+	"values": "10824_4236"
+}, {
+	"id": 545,
+	"level": 44,
+	"nid": 546,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 900,
+	"attrs": "hp_mp",
+	"values": "11070_4332"
+}, {
+	"id": 546,
+	"level": 45,
+	"nid": 547,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 920,
+	"attrs": "hp_mp",
+	"values": "11316_4428"
+}, {
+	"id": 547,
+	"level": 46,
+	"nid": 548,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 940,
+	"attrs": "hp_mp",
+	"values": "11562_4524"
+}, {
+	"id": 548,
+	"level": 47,
+	"nid": 549,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 960,
+	"attrs": "hp_mp",
+	"values": "11808_4620"
+}, {
+	"id": 549,
+	"level": 48,
+	"nid": 550,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 980,
+	"attrs": "hp_mp",
+	"values": "12054_4716"
+}, {
+	"id": 550,
+	"level": 49,
+	"nid": 551,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1000,
+	"attrs": "hp_mp",
+	"values": "12300_4812"
+}, {
+	"id": 551,
+	"level": 50,
+	"nid": 552,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1020,
+	"attrs": "hp_mp",
+	"values": "12546_4908"
+}, {
+	"id": 552,
+	"level": 51,
+	"nid": 553,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1040,
+	"attrs": "hp_mp",
+	"values": "12792_5004"
+}, {
+	"id": 553,
+	"level": 52,
+	"nid": 554,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1060,
+	"attrs": "hp_mp",
+	"values": "13038_5100"
+}, {
+	"id": 554,
+	"level": 53,
+	"nid": 555,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1080,
+	"attrs": "hp_mp",
+	"values": "13284_5196"
+}, {
+	"id": 555,
+	"level": 54,
+	"nid": 556,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1100,
+	"attrs": "hp_mp",
+	"values": "13530_5292"
+}, {
+	"id": 556,
+	"level": 55,
+	"nid": 557,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1120,
+	"attrs": "hp_mp",
+	"values": "13776_5388"
+}, {
+	"id": 557,
+	"level": 56,
+	"nid": 558,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1140,
+	"attrs": "hp_mp",
+	"values": "14022_5484"
+}, {
+	"id": 558,
+	"level": 57,
+	"nid": 559,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1160,
+	"attrs": "hp_mp",
+	"values": "14268_5580"
+}, {
+	"id": 559,
+	"level": 58,
+	"nid": 560,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1180,
+	"attrs": "hp_mp",
+	"values": "14514_5676"
+}, {
+	"id": 560,
+	"level": 59,
+	"nid": 561,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1200,
+	"attrs": "hp_mp",
+	"values": "14760_5772"
+}, {
+	"id": 561,
+	"level": 60,
+	"nid": 562,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1220,
+	"attrs": "hp_mp",
+	"values": "15006_5868"
+}, {
+	"id": 562,
+	"level": 61,
+	"nid": 563,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1240,
+	"attrs": "hp_mp",
+	"values": "15252_5964"
+}, {
+	"id": 563,
+	"level": 62,
+	"nid": 564,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1260,
+	"attrs": "hp_mp",
+	"values": "15498_6060"
+}, {
+	"id": 564,
+	"level": 63,
+	"nid": 565,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1280,
+	"attrs": "hp_mp",
+	"values": "15744_6156"
+}, {
+	"id": 565,
+	"level": 64,
+	"nid": 566,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1300,
+	"attrs": "hp_mp",
+	"values": "15990_6252"
+}, {
+	"id": 566,
+	"level": 65,
+	"nid": 567,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1320,
+	"attrs": "hp_mp",
+	"values": "16236_6348"
+}, {
+	"id": 567,
+	"level": 66,
+	"nid": 568,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1340,
+	"attrs": "hp_mp",
+	"values": "16482_6444"
+}, {
+	"id": 568,
+	"level": 67,
+	"nid": 569,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1360,
+	"attrs": "hp_mp",
+	"values": "16728_6540"
+}, {
+	"id": 569,
+	"level": 68,
+	"nid": 570,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1380,
+	"attrs": "hp_mp",
+	"values": "16974_6636"
+}, {
+	"id": 570,
+	"level": 69,
+	"nid": 571,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1400,
+	"attrs": "hp_mp",
+	"values": "17220_6732"
+}, {
+	"id": 571,
+	"level": 70,
+	"nid": 572,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1420,
+	"attrs": "hp_mp",
+	"values": "17466_6828"
+}, {
+	"id": 572,
+	"level": 71,
+	"nid": 573,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1440,
+	"attrs": "hp_mp",
+	"values": "17712_6924"
+}, {
+	"id": 573,
+	"level": 72,
+	"nid": 574,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1460,
+	"attrs": "hp_mp",
+	"values": "17958_7020"
+}, {
+	"id": 574,
+	"level": 73,
+	"nid": 575,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1480,
+	"attrs": "hp_mp",
+	"values": "18204_7116"
+}, {
+	"id": 575,
+	"level": 74,
+	"nid": 576,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1500,
+	"attrs": "hp_mp",
+	"values": "18450_7212"
+}, {
+	"id": 576,
+	"level": 75,
+	"nid": 577,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1520,
+	"attrs": "hp_mp",
+	"values": "18696_7308"
+}, {
+	"id": 577,
+	"level": 76,
+	"nid": 578,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1540,
+	"attrs": "hp_mp",
+	"values": "18942_7404"
+}, {
+	"id": 578,
+	"level": 77,
+	"nid": 579,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1560,
+	"attrs": "hp_mp",
+	"values": "19188_7500"
+}, {
+	"id": 579,
+	"level": 78,
+	"nid": 580,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1580,
+	"attrs": "hp_mp",
+	"values": "19434_7596"
+}, {
+	"id": 580,
+	"level": 79,
+	"nid": 581,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1600,
+	"attrs": "hp_mp",
+	"values": "19680_7692"
+}, {
+	"id": 581,
+	"level": 80,
+	"nid": 582,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1620,
+	"attrs": "hp_mp",
+	"values": "19926_7788"
+}, {
+	"id": 582,
+	"level": 81,
+	"nid": 583,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1640,
+	"attrs": "hp_mp",
+	"values": "20172_7884"
+}, {
+	"id": 583,
+	"level": 82,
+	"nid": 584,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1660,
+	"attrs": "hp_mp",
+	"values": "20418_7980"
+}, {
+	"id": 584,
+	"level": 83,
+	"nid": 585,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1680,
+	"attrs": "hp_mp",
+	"values": "20664_8076"
+}, {
+	"id": 585,
+	"level": 84,
+	"nid": 586,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1700,
+	"attrs": "hp_mp",
+	"values": "20910_8172"
+}, {
+	"id": 586,
+	"level": 85,
+	"nid": 587,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1720,
+	"attrs": "hp_mp",
+	"values": "21156_8268"
+}, {
+	"id": 587,
+	"level": 86,
+	"nid": 588,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1740,
+	"attrs": "hp_mp",
+	"values": "21402_8364"
+}, {
+	"id": 588,
+	"level": 87,
+	"nid": 589,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1760,
+	"attrs": "hp_mp",
+	"values": "21648_8460"
+}, {
+	"id": 589,
+	"level": 88,
+	"nid": 590,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1780,
+	"attrs": "hp_mp",
+	"values": "21894_8556"
+}, {
+	"id": 590,
+	"level": 89,
+	"nid": 591,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1800,
+	"attrs": "hp_mp",
+	"values": "22140_8652"
+}, {
+	"id": 591,
+	"level": 90,
+	"nid": 592,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1820,
+	"attrs": "hp_mp",
+	"values": "22386_8748"
+}, {
+	"id": 592,
+	"level": 91,
+	"nid": 593,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1840,
+	"attrs": "hp_mp",
+	"values": "22632_8844"
+}, {
+	"id": 593,
+	"level": 92,
+	"nid": 594,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1860,
+	"attrs": "hp_mp",
+	"values": "22878_8940"
+}, {
+	"id": 594,
+	"level": 93,
+	"nid": 595,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1880,
+	"attrs": "hp_mp",
+	"values": "23124_9036"
+}, {
+	"id": 595,
+	"level": 94,
+	"nid": 596,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1900,
+	"attrs": "hp_mp",
+	"values": "23370_9132"
+}, {
+	"id": 596,
+	"level": 95,
+	"nid": 597,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1920,
+	"attrs": "hp_mp",
+	"values": "23616_9228"
+}, {
+	"id": 597,
+	"level": 96,
+	"nid": 598,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1940,
+	"attrs": "hp_mp",
+	"values": "23862_9324"
+}, {
+	"id": 598,
+	"level": 97,
+	"nid": 599,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1960,
+	"attrs": "hp_mp",
+	"values": "24108_9420"
+}, {
+	"id": 599,
+	"level": 98,
+	"nid": 600,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 1980,
+	"attrs": "hp_mp",
+	"values": "24354_9516"
+}, {
+	"id": 600,
+	"level": 99,
+	"nid": 0,
+	"equipPos": 5,
+	"itemId": 602,
+	"itemCost": 2000,
+	"attrs": "hp_mp",
+	"values": "24600_9612"
+}, {
+	"id": 601,
+	"level": 0,
+	"nid": 602,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 20,
+	"attrs": "cirt_hp",
+	"values": "12_246"
+}, {
+	"id": 602,
+	"level": 1,
+	"nid": 603,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 40,
+	"attrs": "cirt_hp",
+	"values": "24_492"
+}, {
+	"id": 603,
+	"level": 2,
+	"nid": 604,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 60,
+	"attrs": "cirt_hp",
+	"values": "36_738"
+}, {
+	"id": 604,
+	"level": 3,
+	"nid": 605,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 80,
+	"attrs": "cirt_hp",
+	"values": "48_984"
+}, {
+	"id": 605,
+	"level": 4,
+	"nid": 606,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 100,
+	"attrs": "cirt_hp",
+	"values": "60_1230"
+}, {
+	"id": 606,
+	"level": 5,
+	"nid": 607,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 120,
+	"attrs": "cirt_hp",
+	"values": "72_1476"
+}, {
+	"id": 607,
+	"level": 6,
+	"nid": 608,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 140,
+	"attrs": "cirt_hp",
+	"values": "84_1722"
+}, {
+	"id": 608,
+	"level": 7,
+	"nid": 609,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 160,
+	"attrs": "cirt_hp",
+	"values": "96_1968"
+}, {
+	"id": 609,
+	"level": 8,
+	"nid": 610,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 180,
+	"attrs": "cirt_hp",
+	"values": "108_2214"
+}, {
+	"id": 610,
+	"level": 9,
+	"nid": 611,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 200,
+	"attrs": "cirt_hp",
+	"values": "120_2460"
+}, {
+	"id": 611,
+	"level": 10,
+	"nid": 612,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 220,
+	"attrs": "cirt_hp",
+	"values": "132_2706"
+}, {
+	"id": 612,
+	"level": 11,
+	"nid": 613,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 240,
+	"attrs": "cirt_hp",
+	"values": "144_2952"
+}, {
+	"id": 613,
+	"level": 12,
+	"nid": 614,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 260,
+	"attrs": "cirt_hp",
+	"values": "156_3198"
+}, {
+	"id": 614,
+	"level": 13,
+	"nid": 615,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 280,
+	"attrs": "cirt_hp",
+	"values": "168_3444"
+}, {
+	"id": 615,
+	"level": 14,
+	"nid": 616,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 300,
+	"attrs": "cirt_hp",
+	"values": "180_3690"
+}, {
+	"id": 616,
+	"level": 15,
+	"nid": 617,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 320,
+	"attrs": "cirt_hp",
+	"values": "192_3936"
+}, {
+	"id": 617,
+	"level": 16,
+	"nid": 618,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 340,
+	"attrs": "cirt_hp",
+	"values": "204_4182"
+}, {
+	"id": 618,
+	"level": 17,
+	"nid": 619,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 360,
+	"attrs": "cirt_hp",
+	"values": "216_4428"
+}, {
+	"id": 619,
+	"level": 18,
+	"nid": 620,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 380,
+	"attrs": "cirt_hp",
+	"values": "228_4674"
+}, {
+	"id": 620,
+	"level": 19,
+	"nid": 621,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 400,
+	"attrs": "cirt_hp",
+	"values": "240_4920"
+}, {
+	"id": 621,
+	"level": 20,
+	"nid": 622,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 420,
+	"attrs": "cirt_hp",
+	"values": "252_5166"
+}, {
+	"id": 622,
+	"level": 21,
+	"nid": 623,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 440,
+	"attrs": "cirt_hp",
+	"values": "264_5412"
+}, {
+	"id": 623,
+	"level": 22,
+	"nid": 624,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 460,
+	"attrs": "cirt_hp",
+	"values": "276_5658"
+}, {
+	"id": 624,
+	"level": 23,
+	"nid": 625,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 480,
+	"attrs": "cirt_hp",
+	"values": "288_5904"
+}, {
+	"id": 625,
+	"level": 24,
+	"nid": 626,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 500,
+	"attrs": "cirt_hp",
+	"values": "300_6150"
+}, {
+	"id": 626,
+	"level": 25,
+	"nid": 627,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 520,
+	"attrs": "cirt_hp",
+	"values": "312_6396"
+}, {
+	"id": 627,
+	"level": 26,
+	"nid": 628,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 540,
+	"attrs": "cirt_hp",
+	"values": "324_6642"
+}, {
+	"id": 628,
+	"level": 27,
+	"nid": 629,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 560,
+	"attrs": "cirt_hp",
+	"values": "336_6888"
+}, {
+	"id": 629,
+	"level": 28,
+	"nid": 630,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 580,
+	"attrs": "cirt_hp",
+	"values": "348_7134"
+}, {
+	"id": 630,
+	"level": 29,
+	"nid": 631,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 600,
+	"attrs": "cirt_hp",
+	"values": "360_7380"
+}, {
+	"id": 631,
+	"level": 30,
+	"nid": 632,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 620,
+	"attrs": "cirt_hp",
+	"values": "372_7626"
+}, {
+	"id": 632,
+	"level": 31,
+	"nid": 633,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 640,
+	"attrs": "cirt_hp",
+	"values": "384_7872"
+}, {
+	"id": 633,
+	"level": 32,
+	"nid": 634,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 660,
+	"attrs": "cirt_hp",
+	"values": "396_8118"
+}, {
+	"id": 634,
+	"level": 33,
+	"nid": 635,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 680,
+	"attrs": "cirt_hp",
+	"values": "408_8364"
+}, {
+	"id": 635,
+	"level": 34,
+	"nid": 636,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 700,
+	"attrs": "cirt_hp",
+	"values": "420_8610"
+}, {
+	"id": 636,
+	"level": 35,
+	"nid": 637,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 720,
+	"attrs": "cirt_hp",
+	"values": "432_8856"
+}, {
+	"id": 637,
+	"level": 36,
+	"nid": 638,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 740,
+	"attrs": "cirt_hp",
+	"values": "444_9102"
+}, {
+	"id": 638,
+	"level": 37,
+	"nid": 639,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 760,
+	"attrs": "cirt_hp",
+	"values": "456_9348"
+}, {
+	"id": 639,
+	"level": 38,
+	"nid": 640,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 780,
+	"attrs": "cirt_hp",
+	"values": "468_9594"
+}, {
+	"id": 640,
+	"level": 39,
+	"nid": 641,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 800,
+	"attrs": "cirt_hp",
+	"values": "480_9840"
+}, {
+	"id": 641,
+	"level": 40,
+	"nid": 642,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 820,
+	"attrs": "cirt_hp",
+	"values": "492_10086"
+}, {
+	"id": 642,
+	"level": 41,
+	"nid": 643,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 840,
+	"attrs": "cirt_hp",
+	"values": "504_10332"
+}, {
+	"id": 643,
+	"level": 42,
+	"nid": 644,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 860,
+	"attrs": "cirt_hp",
+	"values": "516_10578"
+}, {
+	"id": 644,
+	"level": 43,
+	"nid": 645,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 880,
+	"attrs": "cirt_hp",
+	"values": "528_10824"
+}, {
+	"id": 645,
+	"level": 44,
+	"nid": 646,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 900,
+	"attrs": "cirt_hp",
+	"values": "540_11070"
+}, {
+	"id": 646,
+	"level": 45,
+	"nid": 647,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 920,
+	"attrs": "cirt_hp",
+	"values": "552_11316"
+}, {
+	"id": 647,
+	"level": 46,
+	"nid": 648,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 940,
+	"attrs": "cirt_hp",
+	"values": "564_11562"
+}, {
+	"id": 648,
+	"level": 47,
+	"nid": 649,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 960,
+	"attrs": "cirt_hp",
+	"values": "576_11808"
+}, {
+	"id": 649,
+	"level": 48,
+	"nid": 650,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 980,
+	"attrs": "cirt_hp",
+	"values": "588_12054"
+}, {
+	"id": 650,
+	"level": 49,
+	"nid": 651,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1000,
+	"attrs": "cirt_hp",
+	"values": "600_12300"
+}, {
+	"id": 651,
+	"level": 50,
+	"nid": 652,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1020,
+	"attrs": "cirt_hp",
+	"values": "612_12546"
+}, {
+	"id": 652,
+	"level": 51,
+	"nid": 653,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1040,
+	"attrs": "cirt_hp",
+	"values": "624_12792"
+}, {
+	"id": 653,
+	"level": 52,
+	"nid": 654,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1060,
+	"attrs": "cirt_hp",
+	"values": "636_13038"
+}, {
+	"id": 654,
+	"level": 53,
+	"nid": 655,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1080,
+	"attrs": "cirt_hp",
+	"values": "648_13284"
+}, {
+	"id": 655,
+	"level": 54,
+	"nid": 656,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1100,
+	"attrs": "cirt_hp",
+	"values": "660_13530"
+}, {
+	"id": 656,
+	"level": 55,
+	"nid": 657,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1120,
+	"attrs": "cirt_hp",
+	"values": "672_13776"
+}, {
+	"id": 657,
+	"level": 56,
+	"nid": 658,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1140,
+	"attrs": "cirt_hp",
+	"values": "684_14022"
+}, {
+	"id": 658,
+	"level": 57,
+	"nid": 659,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1160,
+	"attrs": "cirt_hp",
+	"values": "696_14268"
+}, {
+	"id": 659,
+	"level": 58,
+	"nid": 660,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1180,
+	"attrs": "cirt_hp",
+	"values": "708_14514"
+}, {
+	"id": 660,
+	"level": 59,
+	"nid": 661,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1200,
+	"attrs": "cirt_hp",
+	"values": "720_14760"
+}, {
+	"id": 661,
+	"level": 60,
+	"nid": 662,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1220,
+	"attrs": "cirt_hp",
+	"values": "732_15006"
+}, {
+	"id": 662,
+	"level": 61,
+	"nid": 663,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1240,
+	"attrs": "cirt_hp",
+	"values": "744_15252"
+}, {
+	"id": 663,
+	"level": 62,
+	"nid": 664,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1260,
+	"attrs": "cirt_hp",
+	"values": "756_15498"
+}, {
+	"id": 664,
+	"level": 63,
+	"nid": 665,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1280,
+	"attrs": "cirt_hp",
+	"values": "768_15744"
+}, {
+	"id": 665,
+	"level": 64,
+	"nid": 666,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1300,
+	"attrs": "cirt_hp",
+	"values": "780_15990"
+}, {
+	"id": 666,
+	"level": 65,
+	"nid": 667,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1320,
+	"attrs": "cirt_hp",
+	"values": "792_16236"
+}, {
+	"id": 667,
+	"level": 66,
+	"nid": 668,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1340,
+	"attrs": "cirt_hp",
+	"values": "804_16482"
+}, {
+	"id": 668,
+	"level": 67,
+	"nid": 669,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1360,
+	"attrs": "cirt_hp",
+	"values": "816_16728"
+}, {
+	"id": 669,
+	"level": 68,
+	"nid": 670,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1380,
+	"attrs": "cirt_hp",
+	"values": "828_16974"
+}, {
+	"id": 670,
+	"level": 69,
+	"nid": 671,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1400,
+	"attrs": "cirt_hp",
+	"values": "840_17220"
+}, {
+	"id": 671,
+	"level": 70,
+	"nid": 672,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1420,
+	"attrs": "cirt_hp",
+	"values": "852_17466"
+}, {
+	"id": 672,
+	"level": 71,
+	"nid": 673,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1440,
+	"attrs": "cirt_hp",
+	"values": "864_17712"
+}, {
+	"id": 673,
+	"level": 72,
+	"nid": 674,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1460,
+	"attrs": "cirt_hp",
+	"values": "876_17958"
+}, {
+	"id": 674,
+	"level": 73,
+	"nid": 675,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1480,
+	"attrs": "cirt_hp",
+	"values": "888_18204"
+}, {
+	"id": 675,
+	"level": 74,
+	"nid": 676,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1500,
+	"attrs": "cirt_hp",
+	"values": "900_18450"
+}, {
+	"id": 676,
+	"level": 75,
+	"nid": 677,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1520,
+	"attrs": "cirt_hp",
+	"values": "912_18696"
+}, {
+	"id": 677,
+	"level": 76,
+	"nid": 678,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1540,
+	"attrs": "cirt_hp",
+	"values": "924_18942"
+}, {
+	"id": 678,
+	"level": 77,
+	"nid": 679,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1560,
+	"attrs": "cirt_hp",
+	"values": "936_19188"
+}, {
+	"id": 679,
+	"level": 78,
+	"nid": 680,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1580,
+	"attrs": "cirt_hp",
+	"values": "948_19434"
+}, {
+	"id": 680,
+	"level": 79,
+	"nid": 681,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1600,
+	"attrs": "cirt_hp",
+	"values": "960_19680"
+}, {
+	"id": 681,
+	"level": 80,
+	"nid": 682,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1620,
+	"attrs": "cirt_hp",
+	"values": "972_19926"
+}, {
+	"id": 682,
+	"level": 81,
+	"nid": 683,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1640,
+	"attrs": "cirt_hp",
+	"values": "984_20172"
+}, {
+	"id": 683,
+	"level": 82,
+	"nid": 684,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1660,
+	"attrs": "cirt_hp",
+	"values": "996_20418"
+}, {
+	"id": 684,
+	"level": 83,
+	"nid": 685,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1680,
+	"attrs": "cirt_hp",
+	"values": "1008_20664"
+}, {
+	"id": 685,
+	"level": 84,
+	"nid": 686,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1700,
+	"attrs": "cirt_hp",
+	"values": "1020_20910"
+}, {
+	"id": 686,
+	"level": 85,
+	"nid": 687,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1720,
+	"attrs": "cirt_hp",
+	"values": "1032_21156"
+}, {
+	"id": 687,
+	"level": 86,
+	"nid": 688,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1740,
+	"attrs": "cirt_hp",
+	"values": "1044_21402"
+}, {
+	"id": 688,
+	"level": 87,
+	"nid": 689,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1760,
+	"attrs": "cirt_hp",
+	"values": "1056_21648"
+}, {
+	"id": 689,
+	"level": 88,
+	"nid": 690,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1780,
+	"attrs": "cirt_hp",
+	"values": "1068_21894"
+}, {
+	"id": 690,
+	"level": 89,
+	"nid": 691,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1800,
+	"attrs": "cirt_hp",
+	"values": "1080_22140"
+}, {
+	"id": 691,
+	"level": 90,
+	"nid": 692,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1820,
+	"attrs": "cirt_hp",
+	"values": "1092_22386"
+}, {
+	"id": 692,
+	"level": 91,
+	"nid": 693,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1840,
+	"attrs": "cirt_hp",
+	"values": "1104_22632"
+}, {
+	"id": 693,
+	"level": 92,
+	"nid": 694,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1860,
+	"attrs": "cirt_hp",
+	"values": "1116_22878"
+}, {
+	"id": 694,
+	"level": 93,
+	"nid": 695,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1880,
+	"attrs": "cirt_hp",
+	"values": "1128_23124"
+}, {
+	"id": 695,
+	"level": 94,
+	"nid": 696,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1900,
+	"attrs": "cirt_hp",
+	"values": "1140_23370"
+}, {
+	"id": 696,
+	"level": 95,
+	"nid": 697,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1920,
+	"attrs": "cirt_hp",
+	"values": "1152_23616"
+}, {
+	"id": 697,
+	"level": 96,
+	"nid": 698,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1940,
+	"attrs": "cirt_hp",
+	"values": "1164_23862"
+}, {
+	"id": 698,
+	"level": 97,
+	"nid": 699,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1960,
+	"attrs": "cirt_hp",
+	"values": "1176_24108"
+}, {
+	"id": 699,
+	"level": 98,
+	"nid": 700,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 1980,
+	"attrs": "cirt_hp",
+	"values": "1188_24354"
+}, {
+	"id": 700,
+	"level": 99,
+	"nid": 0,
+	"equipPos": 6,
+	"itemId": 602,
+	"itemCost": 2000,
+	"attrs": "cirt_hp",
+	"values": "1200_24600"
+}, {
+	"id": 701,
+	"level": 0,
+	"nid": 702,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 20,
+	"attrs": "dodge_attack",
+	"values": "3_24"
+}, {
+	"id": 702,
+	"level": 1,
+	"nid": 703,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 40,
+	"attrs": "dodge_attack",
+	"values": "6_48"
+}, {
+	"id": 703,
+	"level": 2,
+	"nid": 704,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 60,
+	"attrs": "dodge_attack",
+	"values": "9_72"
+}, {
+	"id": 704,
+	"level": 3,
+	"nid": 705,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 80,
+	"attrs": "dodge_attack",
+	"values": "12_96"
+}, {
+	"id": 705,
+	"level": 4,
+	"nid": 706,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 100,
+	"attrs": "dodge_attack",
+	"values": "15_120"
+}, {
+	"id": 706,
+	"level": 5,
+	"nid": 707,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 120,
+	"attrs": "dodge_attack",
+	"values": "18_144"
+}, {
+	"id": 707,
+	"level": 6,
+	"nid": 708,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 140,
+	"attrs": "dodge_attack",
+	"values": "21_168"
+}, {
+	"id": 708,
+	"level": 7,
+	"nid": 709,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 160,
+	"attrs": "dodge_attack",
+	"values": "24_192"
+}, {
+	"id": 709,
+	"level": 8,
+	"nid": 710,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 180,
+	"attrs": "dodge_attack",
+	"values": "27_216"
+}, {
+	"id": 710,
+	"level": 9,
+	"nid": 711,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 200,
+	"attrs": "dodge_attack",
+	"values": "30_240"
+}, {
+	"id": 711,
+	"level": 10,
+	"nid": 712,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 220,
+	"attrs": "dodge_attack",
+	"values": "33_264"
+}, {
+	"id": 712,
+	"level": 11,
+	"nid": 713,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 240,
+	"attrs": "dodge_attack",
+	"values": "36_288"
+}, {
+	"id": 713,
+	"level": 12,
+	"nid": 714,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 260,
+	"attrs": "dodge_attack",
+	"values": "39_312"
+}, {
+	"id": 714,
+	"level": 13,
+	"nid": 715,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 280,
+	"attrs": "dodge_attack",
+	"values": "42_336"
+}, {
+	"id": 715,
+	"level": 14,
+	"nid": 716,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 300,
+	"attrs": "dodge_attack",
+	"values": "45_360"
+}, {
+	"id": 716,
+	"level": 15,
+	"nid": 717,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 320,
+	"attrs": "dodge_attack",
+	"values": "48_384"
+}, {
+	"id": 717,
+	"level": 16,
+	"nid": 718,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 340,
+	"attrs": "dodge_attack",
+	"values": "51_408"
+}, {
+	"id": 718,
+	"level": 17,
+	"nid": 719,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 360,
+	"attrs": "dodge_attack",
+	"values": "54_432"
+}, {
+	"id": 719,
+	"level": 18,
+	"nid": 720,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 380,
+	"attrs": "dodge_attack",
+	"values": "57_456"
+}, {
+	"id": 720,
+	"level": 19,
+	"nid": 721,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 400,
+	"attrs": "dodge_attack",
+	"values": "60_480"
+}, {
+	"id": 721,
+	"level": 20,
+	"nid": 722,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 420,
+	"attrs": "dodge_attack",
+	"values": "63_504"
+}, {
+	"id": 722,
+	"level": 21,
+	"nid": 723,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 440,
+	"attrs": "dodge_attack",
+	"values": "66_528"
+}, {
+	"id": 723,
+	"level": 22,
+	"nid": 724,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 460,
+	"attrs": "dodge_attack",
+	"values": "69_552"
+}, {
+	"id": 724,
+	"level": 23,
+	"nid": 725,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 480,
+	"attrs": "dodge_attack",
+	"values": "72_576"
+}, {
+	"id": 725,
+	"level": 24,
+	"nid": 726,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 500,
+	"attrs": "dodge_attack",
+	"values": "75_600"
+}, {
+	"id": 726,
+	"level": 25,
+	"nid": 727,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 520,
+	"attrs": "dodge_attack",
+	"values": "78_624"
+}, {
+	"id": 727,
+	"level": 26,
+	"nid": 728,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 540,
+	"attrs": "dodge_attack",
+	"values": "81_648"
+}, {
+	"id": 728,
+	"level": 27,
+	"nid": 729,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 560,
+	"attrs": "dodge_attack",
+	"values": "84_672"
+}, {
+	"id": 729,
+	"level": 28,
+	"nid": 730,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 580,
+	"attrs": "dodge_attack",
+	"values": "87_696"
+}, {
+	"id": 730,
+	"level": 29,
+	"nid": 731,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 600,
+	"attrs": "dodge_attack",
+	"values": "90_720"
+}, {
+	"id": 731,
+	"level": 30,
+	"nid": 732,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 620,
+	"attrs": "dodge_attack",
+	"values": "93_744"
+}, {
+	"id": 732,
+	"level": 31,
+	"nid": 733,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 640,
+	"attrs": "dodge_attack",
+	"values": "96_768"
+}, {
+	"id": 733,
+	"level": 32,
+	"nid": 734,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 660,
+	"attrs": "dodge_attack",
+	"values": "99_792"
+}, {
+	"id": 734,
+	"level": 33,
+	"nid": 735,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 680,
+	"attrs": "dodge_attack",
+	"values": "102_816"
+}, {
+	"id": 735,
+	"level": 34,
+	"nid": 736,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 700,
+	"attrs": "dodge_attack",
+	"values": "105_840"
+}, {
+	"id": 736,
+	"level": 35,
+	"nid": 737,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 720,
+	"attrs": "dodge_attack",
+	"values": "108_864"
+}, {
+	"id": 737,
+	"level": 36,
+	"nid": 738,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 740,
+	"attrs": "dodge_attack",
+	"values": "111_888"
+}, {
+	"id": 738,
+	"level": 37,
+	"nid": 739,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 760,
+	"attrs": "dodge_attack",
+	"values": "114_912"
+}, {
+	"id": 739,
+	"level": 38,
+	"nid": 740,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 780,
+	"attrs": "dodge_attack",
+	"values": "117_936"
+}, {
+	"id": 740,
+	"level": 39,
+	"nid": 741,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 800,
+	"attrs": "dodge_attack",
+	"values": "120_960"
+}, {
+	"id": 741,
+	"level": 40,
+	"nid": 742,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 820,
+	"attrs": "dodge_attack",
+	"values": "123_984"
+}, {
+	"id": 742,
+	"level": 41,
+	"nid": 743,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 840,
+	"attrs": "dodge_attack",
+	"values": "126_1008"
+}, {
+	"id": 743,
+	"level": 42,
+	"nid": 744,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 860,
+	"attrs": "dodge_attack",
+	"values": "129_1032"
+}, {
+	"id": 744,
+	"level": 43,
+	"nid": 745,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 880,
+	"attrs": "dodge_attack",
+	"values": "132_1056"
+}, {
+	"id": 745,
+	"level": 44,
+	"nid": 746,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 900,
+	"attrs": "dodge_attack",
+	"values": "135_1080"
+}, {
+	"id": 746,
+	"level": 45,
+	"nid": 747,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 920,
+	"attrs": "dodge_attack",
+	"values": "138_1104"
+}, {
+	"id": 747,
+	"level": 46,
+	"nid": 748,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 940,
+	"attrs": "dodge_attack",
+	"values": "141_1128"
+}, {
+	"id": 748,
+	"level": 47,
+	"nid": 749,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 960,
+	"attrs": "dodge_attack",
+	"values": "144_1152"
+}, {
+	"id": 749,
+	"level": 48,
+	"nid": 750,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 980,
+	"attrs": "dodge_attack",
+	"values": "147_1176"
+}, {
+	"id": 750,
+	"level": 49,
+	"nid": 751,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1000,
+	"attrs": "dodge_attack",
+	"values": "150_1200"
+}, {
+	"id": 751,
+	"level": 50,
+	"nid": 752,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1020,
+	"attrs": "dodge_attack",
+	"values": "153_1224"
+}, {
+	"id": 752,
+	"level": 51,
+	"nid": 753,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1040,
+	"attrs": "dodge_attack",
+	"values": "156_1248"
+}, {
+	"id": 753,
+	"level": 52,
+	"nid": 754,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1060,
+	"attrs": "dodge_attack",
+	"values": "159_1272"
+}, {
+	"id": 754,
+	"level": 53,
+	"nid": 755,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1080,
+	"attrs": "dodge_attack",
+	"values": "162_1296"
+}, {
+	"id": 755,
+	"level": 54,
+	"nid": 756,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1100,
+	"attrs": "dodge_attack",
+	"values": "165_1320"
+}, {
+	"id": 756,
+	"level": 55,
+	"nid": 757,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1120,
+	"attrs": "dodge_attack",
+	"values": "168_1344"
+}, {
+	"id": 757,
+	"level": 56,
+	"nid": 758,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1140,
+	"attrs": "dodge_attack",
+	"values": "171_1368"
+}, {
+	"id": 758,
+	"level": 57,
+	"nid": 759,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1160,
+	"attrs": "dodge_attack",
+	"values": "174_1392"
+}, {
+	"id": 759,
+	"level": 58,
+	"nid": 760,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1180,
+	"attrs": "dodge_attack",
+	"values": "177_1416"
+}, {
+	"id": 760,
+	"level": 59,
+	"nid": 761,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1200,
+	"attrs": "dodge_attack",
+	"values": "180_1440"
+}, {
+	"id": 761,
+	"level": 60,
+	"nid": 762,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1220,
+	"attrs": "dodge_attack",
+	"values": "183_1464"
+}, {
+	"id": 762,
+	"level": 61,
+	"nid": 763,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1240,
+	"attrs": "dodge_attack",
+	"values": "186_1488"
+}, {
+	"id": 763,
+	"level": 62,
+	"nid": 764,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1260,
+	"attrs": "dodge_attack",
+	"values": "189_1512"
+}, {
+	"id": 764,
+	"level": 63,
+	"nid": 765,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1280,
+	"attrs": "dodge_attack",
+	"values": "192_1536"
+}, {
+	"id": 765,
+	"level": 64,
+	"nid": 766,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1300,
+	"attrs": "dodge_attack",
+	"values": "195_1560"
+}, {
+	"id": 766,
+	"level": 65,
+	"nid": 767,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1320,
+	"attrs": "dodge_attack",
+	"values": "198_1584"
+}, {
+	"id": 767,
+	"level": 66,
+	"nid": 768,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1340,
+	"attrs": "dodge_attack",
+	"values": "201_1608"
+}, {
+	"id": 768,
+	"level": 67,
+	"nid": 769,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1360,
+	"attrs": "dodge_attack",
+	"values": "204_1632"
+}, {
+	"id": 769,
+	"level": 68,
+	"nid": 770,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1380,
+	"attrs": "dodge_attack",
+	"values": "207_1656"
+}, {
+	"id": 770,
+	"level": 69,
+	"nid": 771,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1400,
+	"attrs": "dodge_attack",
+	"values": "210_1680"
+}, {
+	"id": 771,
+	"level": 70,
+	"nid": 772,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1420,
+	"attrs": "dodge_attack",
+	"values": "213_1704"
+}, {
+	"id": 772,
+	"level": 71,
+	"nid": 773,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1440,
+	"attrs": "dodge_attack",
+	"values": "216_1728"
+}, {
+	"id": 773,
+	"level": 72,
+	"nid": 774,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1460,
+	"attrs": "dodge_attack",
+	"values": "219_1752"
+}, {
+	"id": 774,
+	"level": 73,
+	"nid": 775,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1480,
+	"attrs": "dodge_attack",
+	"values": "222_1776"
+}, {
+	"id": 775,
+	"level": 74,
+	"nid": 776,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1500,
+	"attrs": "dodge_attack",
+	"values": "225_1800"
+}, {
+	"id": 776,
+	"level": 75,
+	"nid": 777,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1520,
+	"attrs": "dodge_attack",
+	"values": "228_1824"
+}, {
+	"id": 777,
+	"level": 76,
+	"nid": 778,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1540,
+	"attrs": "dodge_attack",
+	"values": "231_1848"
+}, {
+	"id": 778,
+	"level": 77,
+	"nid": 779,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1560,
+	"attrs": "dodge_attack",
+	"values": "234_1872"
+}, {
+	"id": 779,
+	"level": 78,
+	"nid": 780,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1580,
+	"attrs": "dodge_attack",
+	"values": "237_1896"
+}, {
+	"id": 780,
+	"level": 79,
+	"nid": 781,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1600,
+	"attrs": "dodge_attack",
+	"values": "240_1920"
+}, {
+	"id": 781,
+	"level": 80,
+	"nid": 782,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1620,
+	"attrs": "dodge_attack",
+	"values": "243_1944"
+}, {
+	"id": 782,
+	"level": 81,
+	"nid": 783,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1640,
+	"attrs": "dodge_attack",
+	"values": "246_1968"
+}, {
+	"id": 783,
+	"level": 82,
+	"nid": 784,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1660,
+	"attrs": "dodge_attack",
+	"values": "249_1992"
+}, {
+	"id": 784,
+	"level": 83,
+	"nid": 785,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1680,
+	"attrs": "dodge_attack",
+	"values": "252_2016"
+}, {
+	"id": 785,
+	"level": 84,
+	"nid": 786,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1700,
+	"attrs": "dodge_attack",
+	"values": "255_2040"
+}, {
+	"id": 786,
+	"level": 85,
+	"nid": 787,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1720,
+	"attrs": "dodge_attack",
+	"values": "258_2064"
+}, {
+	"id": 787,
+	"level": 86,
+	"nid": 788,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1740,
+	"attrs": "dodge_attack",
+	"values": "261_2088"
+}, {
+	"id": 788,
+	"level": 87,
+	"nid": 789,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1760,
+	"attrs": "dodge_attack",
+	"values": "264_2112"
+}, {
+	"id": 789,
+	"level": 88,
+	"nid": 790,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1780,
+	"attrs": "dodge_attack",
+	"values": "267_2136"
+}, {
+	"id": 790,
+	"level": 89,
+	"nid": 791,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1800,
+	"attrs": "dodge_attack",
+	"values": "270_2160"
+}, {
+	"id": 791,
+	"level": 90,
+	"nid": 792,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1820,
+	"attrs": "dodge_attack",
+	"values": "273_2184"
+}, {
+	"id": 792,
+	"level": 91,
+	"nid": 793,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1840,
+	"attrs": "dodge_attack",
+	"values": "276_2208"
+}, {
+	"id": 793,
+	"level": 92,
+	"nid": 794,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1860,
+	"attrs": "dodge_attack",
+	"values": "279_2232"
+}, {
+	"id": 794,
+	"level": 93,
+	"nid": 795,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1880,
+	"attrs": "dodge_attack",
+	"values": "282_2256"
+}, {
+	"id": 795,
+	"level": 94,
+	"nid": 796,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1900,
+	"attrs": "dodge_attack",
+	"values": "285_2280"
+}, {
+	"id": 796,
+	"level": 95,
+	"nid": 797,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1920,
+	"attrs": "dodge_attack",
+	"values": "288_2304"
+}, {
+	"id": 797,
+	"level": 96,
+	"nid": 798,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1940,
+	"attrs": "dodge_attack",
+	"values": "291_2328"
+}, {
+	"id": 798,
+	"level": 97,
+	"nid": 799,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1960,
+	"attrs": "dodge_attack",
+	"values": "294_2352"
+}, {
+	"id": 799,
+	"level": 98,
+	"nid": 800,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 1980,
+	"attrs": "dodge_attack",
+	"values": "297_2376"
+}, {
+	"id": 800,
+	"level": 99,
+	"nid": 0,
+	"equipPos": 7,
+	"itemId": 602,
+	"itemCost": 2000,
+	"attrs": "dodge_attack",
+	"values": "300_2400"
+}]

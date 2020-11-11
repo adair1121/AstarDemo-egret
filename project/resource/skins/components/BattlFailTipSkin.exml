@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BattlFailTipSkin" width="1334" height="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect left="0" top="0" bottom="0" right="0" alpha="0.7"/>
+	<e:Group touchChildren="true" touchEnabled="false" touchThrough="true" horizontalCenter="0" verticalCenter="0">
+		<e:Image source="battle_info_bg_png" x="0" y="0"/>
+		<e:Image source="battle_infoicon_png" x="143" y="12.98"/>
+		<e:Label text="你被" x="187.67" y="22" size="16" textColor="0xfddeb9" stroke="1"/>
+		<e:Label text="击败" x="268.67" y="22" size="16" textColor="0xFDDEB9" stroke="1"/>
+		<e:Label text="自动退出" x="336.68" y="22" size="16" textColor="0xFDDEB9" stroke="1"/>
+		<e:Label id="timeLab" text="(10秒)" size="16" textColor="0xFDDEB9" stroke="1" horizontalCenter="1" bottom="66"/>
+		<e:Label text="10秒" x="302.01" y="22.48" size="16" stroke="1" textColor="0xfcc10a"/>
+		<e:Label text="BOSS" x="221.67" y="22" size="16" textColor="0x00ff00" stroke="1"/>
+		<e:Group id="rebirthBtn" x="217" y="73" touchChildren="false" touchEnabled="true" touchThrough="false">
+			<e:Image source="battle_infoBtn_png" x="0" y="0"/>
+			<e:Image source="item_601_png" x="10.02" y="3.66" anchorOffsetX="0" width="28.81" anchorOffsetY="0" height="29.33"/>
+			<e:Label text="100原地复活" x="42.33" y="11" size="16" strokeColor="0x4a1505" textColor="0xeadaaa" stroke="1"/>
+		</e:Group>
+	</e:Group>
+</e:Skin>

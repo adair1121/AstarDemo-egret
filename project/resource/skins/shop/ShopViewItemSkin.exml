@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ShopViewItemSkin" width="258" height="153" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group width="258" height="153" x="0">
+		<e:Image scale9Grid="2,2,8,7" source="itemBg_png" width="258" height="153" x="0" y="0"/>
+		<e:Label id="shopName" size="20" y="7" textColor="0xf3cc5c" stroke="1.5" strokeColor="0x241c07" horizontalCenter="0" text="{data.itemName}"/>
+		<e:Button id="buyBtn" label="" y="110" width="83" horizontalCenter="44.5">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="btn_buy_png" source.down="btn_buy_png" source.disabled="btn_buy_png"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Label id="buyBtnLabel" text="购  买" y="118.5" size="14" stroke="1" strokeColor="0x562209" fontFamily="fzksFont" horizontalCenter="44.5" textColor="0xe8e1d0"/>
+		<e:Group id="effect_group" width="0" height="0" x="50" y="85.5" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1"/>
+		<e:Image id="shopIconBg" width="65" height="65" x="17.5" y="53" source="itemBox_png"/>
+		<e:Image id="shopIcon" width="58" height="58" x="21" y="56.5" source=""/>
+		<e:Label text="价格：" x="105" y="51.5" size="18" stroke="1" strokeColor="0x241c07" textColor="0xf7dc91"/>
+		<e:Label id="payNum" text="{data.price}" x="152" y="53.5" size="16" textColor="0xF7DC91" stroke="1" strokeColor="0x241C07"/>
+		<e:Label id="useLv" text="0级" x="166" y="80" size="16" stroke="1" strokeColor="0x241C07" textColor="0x62e50d"/>
+		<e:Label text="佩戴：" x="105" y="77.5" size="18" stroke="1" strokeColor="0x241C07" textColor="0xf7dc91"/>
+		<e:Image id="goldIcon" width="26" height="20" x="220.5" y="51.5" source="goldIcon_png"/>
+		<e:Label id="shopAttribe" text="武\n器" x="67" y="79.5" size="10" fontFamily="FangSong" textColor="0x9297a0" visible="false"/>
+		<e:Label id="starLev" text="10阶" x="21.67" y="96.98" size="16" stroke="1" strokeColor="0x212427" textColor="0xd0bb4f"/>
+		<e:Button id="clickButton" label="" x="10" y="47" anchorOffsetY="0" height="76.5" anchorOffsetX="0" width="80" alpha="0"/>
+	</e:Group>
+</e:Skin>

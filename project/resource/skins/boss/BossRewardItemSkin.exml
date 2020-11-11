@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BossRewardItemSkin" width="80" height="80" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group id="effGroup" left="0" top="0" right="0" bottom="0"/>
+	<e:Image id="bgImg" anchorOffsetX="0" width="70" height="70" horizontalCenter="0" verticalCenter="0" source="itemBox_png" scale9Grid="4,4,57,57"/>
+	<e:Image id="headImg" source="item_101_png" horizontalCenter="0" verticalCenter="0"/>
+	<e:Label id="starLevLab" text="Label" x="11" y="11" anchorOffsetX="0" width="57.6" anchorOffsetY="0" height="58.8" size="16" verticalAlign="bottom" textAlign="left" strokeColor="0x0f0f0f" stroke="1" textColor="0xffb25b"/>
+</e:Skin>

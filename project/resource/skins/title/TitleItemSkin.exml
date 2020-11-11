@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="TitleItemSkin" width="505" height="88" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="title_item_bg_png" horizontalCenter="0" verticalCenter="0"/>
+	<e:Image id="selectImg" source="title_item_select_png" horizontalCenter="0" verticalCenter="0"/>
+	<e:Image id="headImg" source="title_head_0_png" x="9" y="4.5"/>
+	<e:Label id="nameLab" text="名字名字" x="29" y="32" anchorOffsetX="0" width="185" anchorOffsetY="0" height="34" verticalAlign="middle" textAlign="center" size="20" stroke="2" textColor="0xffee02"/>
+	<e:Label id="lockLab" text="未解锁" x="253.5" y="58" anchorOffsetX="0" width="115" anchorOffsetY="0" height="34" verticalAlign="middle" textAlign="center" size="24" visible="false"/>
+	<e:Button id="dressupBtn" label="装备" x="368.5" y="25">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="title_select_btn_0_png" source.down="title_select_btn_1_png" source.disabled="title_select_btn_1_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" size="20" textColor="0xffffff"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+</e:Skin>

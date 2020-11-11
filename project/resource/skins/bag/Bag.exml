@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BagViewSkin" width="1334" height="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect left="0" top="0" right="0" bottom="0" fillAlpha="0.6"/>
+	<e:Group id="sceneBox" width="960" height="640" horizontalCenter="0" verticalCenter="0">
+		<e:Image source="bag_11_png" x="52" y="47.69" scaleX="1" scaleY="1"/>
+		<e:Image source="bag_9_png" x="145.68" y="559.01"/>
+		<e:Scroller id="bagScroller" width="785" height="409.33" verticalCenter="4.5" horizontalCenter="4.5" x="-70" y="70" scaleX="1" scaleY="1" anchorOffsetX="0" anchorOffsetY="0">
+			<e:List id="bagList" x="-66" y="-1.52">
+			<e:layout>
+				<e:TileLayout horizontalGap="15"/>
+			</e:layout>
+			</e:List>
+		</e:Scroller>
+		<e:Label text="容量:" x="89.88" y="564.59" anchorOffsetX="0" width="95" scaleX="1" scaleY="1" size="20" textColor="0xf7b82e"/>
+		<e:Label id="rongliang" text="0/0" x="156.83" y="564.6" anchorOffsetX="0" width="150" scaleX="1" scaleY="1" size="20" textColor="0xfc6802" height="25"/>
+		<e:Image id="zeng" source="bag_8_png" x="687" y="563"/>
+		<e:Image source="bag_6_png" x="436" y="67"/>
+		<e:Image source="bag_10_png" x="743" y="553"/>
+		<e:Label id="ronglian" text="熔炼" x="743" y="553" anchorOffsetX="0" width="114.6" scaleX="1" scaleY="1" size="18" anchorOffsetY="0" height="35.2" textAlign="center" verticalAlign="middle"/>
+		<e:Image source="bag_12_png" x="859" y="67"/>
+		<e:Rect id="closeButton" width="95" height="89.24" x="830.5" y="32.28" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0"/>
+	</e:Group>
+</e:Skin>

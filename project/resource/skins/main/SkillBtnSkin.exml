@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SkillBtnSkin" width="60" height="60" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="main_skill_bg_png" x="0" y="0"/>
+	<e:Image id="skill_icon" source="shan_png" x="0" y="0" width="60" height="60"/>
+	<e:Label id="name_label" text="啦啦啦啦" y="40.67" anchorOffsetX="0" width="64" anchorOffsetY="0" height="18.67" verticalAlign="middle" textAlign="center" size="16" stroke="0.5" textColor="0xffe9af" horizontalCenter="0"/>
+	<e:Label id="time_label" text="10级" x="0" y="0" anchorOffsetX="0" width="60" anchorOffsetY="0" height="60" verticalAlign="middle" textAlign="center" size="24"/>
+</e:Skin>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ItemSkin" width="65" height="65" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group x="0" y="0">
+		<e:Image source="itemBox_png" x="0" y="0"/>
+		<e:Image id="img" source="item_101_png" horizontalCenter="0" verticalCenter="0.5"/>
+		<e:Label id="star" text="1阶" size="16" textColor="0xe6c43c" stroke="1" left="2" bottom="3"/>
+		<e:Label id="numLab" text="100" size="16" right="4" bottom="3"/>
+	</e:Group>
+</e:Skin>

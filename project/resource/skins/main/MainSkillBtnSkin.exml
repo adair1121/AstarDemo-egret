@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MainSkillBtnSkin" width="228.5" height="218" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="attack_btn" source="joystickok_sheet0_png" x="103" y="93"/>
+	<e:Group id="skill_0" width="60" height="60" x="12.5" y="140.5" anchorOffsetX="0" anchorOffsetY="0">
+	</e:Group>
+	<e:Group id="skill_1" width="60" height="60" x="24.5" y="69.5" anchorOffsetX="0" anchorOffsetY="0"/>
+	<e:Group id="skill_2" width="60" height="60" x="84.5" y="19.5" anchorOffsetX="0" anchorOffsetY="0"/>
+	<e:Group id="skill_3" width="60" height="60" x="158" y="8.5" anchorOffsetX="0" anchorOffsetY="0"/>
+</e:Skin>

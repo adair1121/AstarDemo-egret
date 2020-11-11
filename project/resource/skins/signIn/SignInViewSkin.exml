@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SignInViewSkin" width="1334" height="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect left="0" top="0" right="0" bottom="0" fillAlpha="0.6"/>
+	<e:Group id="sceneBox" width="960" height="640" verticalCenter="0" horizontalCenter="0">
+		<e:Image source="signIn_0_png" x="-42" y="40.34" anchorOffsetX="0" anchorOffsetY="0"/>
+		<e:Image source="signIn_3_png" x="88.39" y="531.06"/>
+		<e:Scroller id="signScroller" width="760" height="372" verticalCenter="-17" horizontalCenter="0" x="117" y="125" scaleX="1" scaleY="1" anchorOffsetX="0" anchorOffsetY="0">
+			<e:List id="signList" x="-4" y="-41">
+			<e:layout>
+				<e:TileLayout horizontalGap="10" verticalGap="5"/>
+			</e:layout>
+			</e:List>
+		</e:Scroller>
+		<e:List id="cumulativeList" width="620" height="110" y="493" anchorOffsetX="0" x="91" anchorOffsetY="0">
+			<e:layout>
+				<e:HorizontalLayout gap="33"/>
+			</e:layout>
+		</e:List>
+		<e:Label id="cumulative" text="累计签到：10天" x="656" y="486" anchorOffsetX="0" width="300" anchorOffsetY="0" height="30" textAlign="center" verticalAlign="middle" textColor="0x75ff02" visible="false"/>
+		<e:Image source="signIn_1_png" x="868" y="72"/>
+		<e:Image x="733.45" y="527.74" anchorOffsetX="0" scale9Grid="5,6,14,14" source="signIn_2_png"/>
+		<e:Label id="receive" text="签到" x="737" y="528.07" anchorOffsetX="0" width="114" anchorOffsetY="0" height="35.44" textAlign="center" verticalAlign="middle" size="20" textColor="0xdbcda6"/>
+		<e:Image source="signIn_7_png" x="400" y="65"/>
+		<e:Rect id="closeButton" width="95" height="98.33" x="839.5" y="38.66" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0"/>
+	</e:Group>
+</e:Skin>

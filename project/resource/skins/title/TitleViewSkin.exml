@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="TitleViewSkin" width="1334" height="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect left="0" top="0" right="0" bottom="0" fillAlpha="0.6"/>
+	<e:Group id="show_group" horizontalCenter="0" verticalCenter="0">
+		<e:Image x="0" y="0" source="title_bg_png"/>
+		<e:Image source="title_show_bg_png" x="109" y="65"/>
+		<e:Image x="907.58" y="23" source="title_close_btn_png"/>
+		<e:Label text="称号" y="18" anchorOffsetX="0" width="281.58" horizontalCenter="0" verticalAlign="middle" textAlign="center" size="24" textColor="0xdda777" visible="false"/>
+		<e:Scroller id="itemScroller" width="505" height="483" x="114" y="69" anchorOffsetX="0" anchorOffsetY="0">
+			<e:Group id="itemGroup"/>
+		</e:Scroller>
+		<e:Image source="title_top_bg_png" x="439" y="148" visible="false"/>
+		<e:Image source="title_top_bg_png" x="439" y="336" visible="false"/>
+		<e:Label text="属性" y="164.5" anchorOffsetX="0" width="281.58" verticalAlign="middle" textAlign="center" size="20" x="626" textColor="0xb3bee0"/>
+		<e:Label id="propertyLab1" text="生命：" y="222.5" anchorOffsetX="0" width="182.58" verticalAlign="middle" textAlign="left" size="18" textColor="0xF4C8A1" anchorOffsetY="0" height="25" x="669"/>
+		<e:Label id="propertyLab2" text="攻击：" y="269" anchorOffsetX="0" width="182.58" verticalAlign="middle" textAlign="left" size="18" textColor="0xF4C8A1" anchorOffsetY="0" height="25" x="669"/>
+		<e:Label id="propertyLab3" text="防御：" y="314.5" anchorOffsetX="0" width="182.58" verticalAlign="middle" textAlign="left" size="18" textColor="0xF4C8A1" anchorOffsetY="0" height="25" x="669"/>
+		<e:Label text="称号说明" y="385.5" anchorOffsetX="0" width="288.58" verticalAlign="middle" textAlign="center" size="20" x="627" textColor="0xb3bee0"/>
+		<e:Label id="explainLab" text="称号说明" y="431.5" anchorOffsetX="0" width="240.58" verticalAlign="top" textAlign="left" size="18" textColor="0xF4C8A1" anchorOffsetY="0" height="97" x="651"/>
+		<e:Group id="fireGroup" width="56.06" height="27.27" x="771" y="119" anchorOffsetX="0" anchorOffsetY="0"/>
+		<e:Image source="title_top_png" x="454.5" y="21"/>
+		<e:Image source="title_combat_png" x="692" y="103" visible="false"/>
+		<e:Label id="combatLab" text="Label" x="747" y="99" anchorOffsetX="0" width="108" anchorOffsetY="0" height="35" verticalAlign="middle" textAlign="center" strokeColor="0x492f00" stroke="2" textColor="0xe5c97e" visible="false"/>
+		<e:BitmapLabel id="combatBml" x="769.12" y="100.5" font="num_1_fnt" text="123"/>
+		<e:Image x="671.3" y="95.48" source="cp_png" scaleX="1.5" scaleY="1.5"/>
+		<e:Rect id="closeImg" width="95" height="98.33" x="877.35" y="-1.4" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0"/>
+	</e:Group>
+</e:Skin>

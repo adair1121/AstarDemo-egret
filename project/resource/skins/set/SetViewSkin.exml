@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SetViewSkin" width="1334" height="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+<e:Rect top="0" left="0" bottom="0" right="0" fillAlpha="0.3"/>
+	<e:Group width="256" height="178" horizontalCenter="0" verticalCenter="0">
+		<e:Image source="set_bg_png" horizontalCenter="0" verticalCenter="0" x="0" y="0" scaleX="1" scaleY="1"/>
+		<e:Image id="close_btn" source="set_close_png" x="221.51999999999998" y="6.079999999999984" scaleX="1" scaleY="1"/>
+		<e:Label text="设置" y="7.600000000000023" size="24" horizontalCenter="4" textColor="0xf9dc59" x="108" scaleX="1" scaleY="1"/>
+		<e:Label text="音乐:" x="27.600000000000023" y="76.12" size="18" textColor="0xef990b" scaleX="1" scaleY="1"/>
+		<e:Label text="音效:" x="26.960000000000036" y="108.85000000000002" size="18" textColor="0xef990b" scaleX="1" scaleY="1"/>
+		<e:Group id="group_1" width="21" height="21" x="92.76999999999998" y="74.60000000000008" scaleX="1" scaleY="1">
+			<e:Image source="set_down_png" x="0" y="0" scaleX="1" scaleY="1"/>
+			<e:Image source="set_up_png" x="0" y="0"/>
+		</e:Group>
+		<e:Group id="group_11" width="21" height="21" x="166.39" y="74.60000000000008" scaleX="1" scaleY="1">
+			<e:Image source="set_down_png" x="0" y="0" scaleX="1" scaleY="1"/>
+			<e:Image source="set_up_png" x="0" y="0"/>
+		</e:Group>
+		<e:Label text="开启" x="115.17000000000007" y="76.12" textColor="0xedb784" size="18" scaleX="1" scaleY="1"/>
+		<e:Label text="关闭" x="193.36" y="76.12" textColor="0xEDB784" size="18" scaleX="1" scaleY="1"/>
+		<e:Group id="group_2" width="21" height="21" x="92.16999999999996" y="104.30000000000001" scaleX="1" scaleY="1">
+			<e:Image source="set_down_png" x="0" y="0" scaleX="1" scaleY="1"/>
+			<e:Image source="set_up_png" x="0" y="0"/>
+		</e:Group>
+		<e:Group id="group_22" width="21" height="21" x="165.78999999999996" y="104.30000000000001" scaleX="1" scaleY="1">
+			<e:Image source="set_down_png" x="0" y="0" scaleX="1" scaleY="1"/>
+			<e:Image source="set_up_png" x="0" y="0"/>
+		</e:Group>
+		<e:Label text="开启" x="114.57000000000005" y="105.82" textColor="0xEDB784" size="18" scaleX="1" scaleY="1"/>
+		<e:Label text="关闭" x="192.76" y="105.82" textColor="0xEDB784" size="18" scaleX="1" scaleY="1"/>
+	</e:Group>
+</e:Skin>

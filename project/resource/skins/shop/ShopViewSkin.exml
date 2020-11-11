@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ShopViewSkin" width="1334" height="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<w:Config id="175733b99c8"/>
+	<e:Rect fillAlpha="0.6" top="0" left="0" right="0" bottom="0"/>
+	<e:Group id="baseGroup" horizontalCenter="0" verticalCenter="0">
+		<e:Image id="shopBg" source="shop_bg_png" width="974" height="579" anchorOffsetX="487" anchorOffsetY="289.5" x="486.68" y="290.6" scaleX="1" scaleY="1"/>
+		<e:Group id="btnGroup" anchorOffsetX="0" anchorOffsetY="0" height="300" width="140" x="-9.32" y="78.1" scaleX="1" scaleY="1"/>
+		<e:Image source="bg_di_png" x="110.63" y="66.06"/>
+		<e:Image source="shopTitle_png" height="43" width="104" x="459.68" y="24.1" scaleX="1" scaleY="1"/>
+		<e:Button label="" x="905.18" y="30.1">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="btn_close_png" source.down="btn_close_png" source.disabled="btn_close_png"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Group id="listGroup" width="200" height="200" x="114.68" y="69.1">
+			<e:Scroller id="list_0" anchorOffsetX="0" anchorOffsetY="0" scrollPolicyH="off" x="0" scaleX="1" scaleY="1" width="810" height="480" y="0">
+				<e:List id="shopList_0" width="810" height="200" x="-1.33" y="1.33" anchorOffsetX="0" useVirtualLayout="false" anchorOffsetY="0">
+				<e:layout>
+					<e:TileLayout requestedColumnCount="3" horizontalAlign="left" paddingLeft="10" paddingTop="10"/>
+				</e:layout>
+				</e:List>
+			</e:Scroller>
+			<e:Scroller id="list_1" anchorOffsetX="0" anchorOffsetY="0" scrollPolicyH="off" x="0" scaleX="1" scaleY="1" width="810" height="480" y="0">
+				<e:List id="shopList_1" width="810" height="200" x="-1.33" y="1.33" anchorOffsetX="0" useVirtualLayout="false" anchorOffsetY="0">
+				<e:layout>
+					<e:TileLayout requestedColumnCount="3" horizontalAlign="left" paddingLeft="10" paddingTop="10"/>
+				</e:layout>
+				</e:List>
+			</e:Scroller>
+			<e:Scroller id="list_2" anchorOffsetX="0" anchorOffsetY="0" scrollPolicyH="off" x="0" scaleX="1" scaleY="1" width="810" height="480" y="0">
+				<e:List id="shopList_2" width="810" height="200" x="-1.33" y="1.33" anchorOffsetX="0" useVirtualLayout="false" anchorOffsetY="0">
+				<e:layout>
+					<e:TileLayout requestedColumnCount="3" horizontalAlign="left" paddingLeft="10" paddingTop="10"/>
+				</e:layout>
+				</e:List>
+			</e:Scroller>
+			<e:Scroller id="list_3" anchorOffsetX="0" anchorOffsetY="0" scrollPolicyH="off" x="0" scaleX="1" scaleY="1" width="810" height="480" y="0">
+				<e:List id="shopList_3" width="810" height="200" x="-1.33" y="1.33" anchorOffsetX="0" useVirtualLayout="false" anchorOffsetY="0">
+				<e:layout>
+					<e:TileLayout requestedColumnCount="3" horizontalAlign="left" paddingLeft="10" paddingTop="10"/>
+				</e:layout>
+				</e:List>
+			</e:Scroller>
+			<e:Scroller id="list_4" anchorOffsetX="0" anchorOffsetY="0" scrollPolicyH="off" x="0" scaleX="1" scaleY="1" width="810" height="480" y="0">
+				<e:List id="shopList_4" width="810" height="200" x="-1.33" y="1.33" anchorOffsetX="0" useVirtualLayout="false" anchorOffsetY="0">
+				<e:layout>
+					<e:TileLayout requestedColumnCount="3" horizontalAlign="left" paddingLeft="10" paddingTop="10"/>
+				</e:layout>
+				</e:List>
+			</e:Scroller>
+			<e:Scroller id="list_5" anchorOffsetX="0" anchorOffsetY="0" scrollPolicyH="off" x="0" scaleX="1" scaleY="1" width="810" height="480" y="0">
+				<e:List id="shopList_5" width="810" height="200" x="-1.33" y="1.33" anchorOffsetX="0" useVirtualLayout="false" anchorOffsetY="0">
+				<e:layout>
+					<e:TileLayout requestedColumnCount="3" horizontalAlign="left" paddingLeft="10" paddingTop="10"/>
+				</e:layout>
+				</e:List>
+			</e:Scroller>
+		</e:Group>
+		<e:Rect id="closeBtn" width="95" height="98.33" x="877.35" y="-1.4" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0"/>
+	</e:Group>
+	<e:Group id="buyGroup" width="256" height="178" horizontalCenter="0" verticalCenter="0" visible="false">
+		<e:Image width="256" height="178" source="buy_itemBg_png" horizontalCenter="0" verticalCenter="0"/>
+		<e:Label text="购买" x="104.68" size="24" fontFamily="fzksFont" verticalCenter="-72" textColor="0xe6d9a5" stroke="1" strokeColor="0x201015"/>
+		<e:Group id="effect_group" x="69" y="89"/>
+		<e:Image id="shopIconBg" width="65" height="65" x="36.5" y="56.5" source="itemBox_png"/>
+		<e:Image id="shopIcon" width="58" height="58" x="40" y="60" source=""/>
+		<e:Label id="starLev" text="10阶" x="41.2" y="106.4" size="10" fontFamily="fzksFont" stroke="1" strokeColor="0x212427" textColor="0xD0BB4F"/>
+		<e:Label id="shopAttribe" text="武\n器" x="86" y="95" size="10" fontFamily="fzksFont" textColor="0x9297A0" visible="false"/>
+		<e:Image id="cancleBtn" source="common_buy_b_png" x="25.5" y="134"/>
+		<e:Label id="cancleLabel" text="取 消" x="54" y="142.5" size="15" fontFamily="fzksFont" textColor="0xdfd7b3" stroke="1" strokeColor="0x212a3c"/>
+		<e:Image id="confirmBtn" source="common_buy_b_png" x="142.68" y="134"/>
+		<e:Label id="confirmLabel" text="确 定" x="170.68" y="142.5" size="15" fontFamily="fzksFont" textColor="0xDFD7B3" stroke="1" strokeColor="0x212A3C"/>
+		<e:Label id="shopName" text="武器" x="113.68" y="62.5" size="20" fontFamily="fzksFont" stroke="1" strokeColor="0x0c0d10"/>
+		<e:Label text="单价：" x="113.68" y="95" size="14" fontFamily="fzksFont" stroke="1" strokeColor="0x0c0d10" textColor="0xf4c98d"/>
+		<e:Label id="payNum" text="000000" x="152.68" y="95" size="14" fontFamily="fzksFont" stroke="1" strokeColor="0x0C0D10" textColor="0xefdfc9"/>
+		<e:Image id="goldIcon" source="goldIcon_png" x="200.68" y="92"/>
+		<e:Image id="buyCloseBtn" x="224" y="7" source="bag_0_png"/>
+	</e:Group>
+	<e:Group id="buySeccessTips" width="334" height="41" horizontalCenter="0" bottom="24" visible="false">
+		<e:Image source="buyDi_png" y="0" horizontalCenter="0" width="334" height="41"/>
+		<e:Label id="buyLabelTips" text="恭喜您购买成功" fontFamily="fzbwksjw" textColor="0xbead7f" strokeColor="0x11131a" stroke="1" textAlign="center" verticalAlign="middle" horizontalCenter="0" verticalCenter="0" size="20" bold="true"/>
+	</e:Group>
+	
+</e:Skin>

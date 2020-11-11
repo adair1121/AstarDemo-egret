@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Tips1Skin" width="148.43" height="39.97" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="pic" anchorOffsetX="0" anchorOffsetY="0" source="combat_bg_png" horizontalCenter="0" verticalCenter="0"/>
+	<e:Label id="lab" text="Tips" size="18" touchEnabled="false" fontFamily="Arial" textAlign="left" textColor="0xf7e50e" stroke="1" horizontalCenter="0" verticalCenter="0"/>
+</e:Skin>

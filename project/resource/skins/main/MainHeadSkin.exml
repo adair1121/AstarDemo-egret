@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MainHeadSkin" width="330" height="114" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group x="93.73" y="23.89" anchorOffsetX="0" width="163.4" anchorOffsetY="0" height="19.8">
+		<e:Image id="hp_tiao" source="hong__img_png" x="0" y="0"/>
+		<e:Image id="hp_mask" source="hong__img_png" x="0" y="0"/>
+	</e:Group>
+	<e:Group x="94.83" y="45.94" anchorOffsetX="0" width="163.2" anchorOffsetY="0" height="19.4">
+		<e:Image id="mp_tiao" source="lan_img_png" x="-0.36" y="0.4"/>
+		<e:Image id="mp_mask" source="lan_img_png" x="-0.36" y="0.8"/>
+	</e:Group>
+	<e:Image source="main_iconKuang_png" x="0" y="0"/>
+	<e:Image id="icon_img" source="main_head_1_0_png" x="11.53" y="3.28"/>
+	<e:Image source="main_gold_png" x="99.63" y="7.56" anchorOffsetX="0" width="24.2" anchorOffsetY="0" height="14.8"/>
+	<e:Label id="gold_label" text="300" x="126.86" y="5.83" anchorOffsetX="0" anchorOffsetY="0" height="20.67" verticalAlign="middle" size="16" stroke="1" textColor="0xff9002"/>
+	<e:Label id="hp_numLabel" text="300" x="93.6" y="23.28" anchorOffsetX="0" width="163.87" anchorOffsetY="0" height="20.67" verticalAlign="middle" size="16" textAlign="center" stroke="1" textColor="0xffd39a"/>
+	<e:Label id="mp_numLabel" text="300" x="94.59" y="46.2" anchorOffsetX="0" width="163.87" anchorOffsetY="0" height="20.67" verticalAlign="middle" size="16" textAlign="center" stroke="1" textColor="0xffd39a"/>
+	<e:Image source="level_di_png" x="68.63" y="65"/>
+	<e:Label id="role_level" text="152" x="58.06" y="54.14" anchorOffsetX="0" width="51.33" anchorOffsetY="0" height="51.33" verticalAlign="middle" textAlign="center" size="16" textColor="0xffd39a" stroke="1"/>
+	<e:Group id="fireGroup" width="34" height="10" x="165" y="82" anchorOffsetY="0" anchorOffsetX="0"/>
+	<e:Image source="cp_png" x="100.47" y="68.91"/>
+	<e:BitmapLabel id="zhanli_label" width="186.2" height="31.6" x="154.47" y="68.91" text="2020000000000" anchorOffsetX="0" anchorOffsetY="0" font="cp_font_fnt"/>
+	<e:Image id="gold_add" source="gold_add_png" x="162" y="4" scaleX="0.3" scaleY="0.3"/>
+</e:Skin>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="itmeCumulativeSkin" width="98" height="92" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="bg" source="signIn_4_png" x="0" y="0"/>
+	<e:Label id="labelDisplay" text="累计10次" x="10.13" y="73" anchorOffsetX="0" width="79.75" size="13" verticalAlign="middle" textAlign="center" textColor="0x6af411"/>
+	<e:Image id="item" source="item_601_png" horizontalCenter="0.5" verticalCenter="-4"/>
+	<e:Label id="itemNum" text="1000" x="26.26" y="56.43" anchorOffsetX="0" width="50.58" size="12" textAlign="right" rotation="359.96" stroke="1"/>
+	<e:Group id="stateShow" width="97" height="92" x="0" y="0" anchorOffsetX="0" locked="true">
+		<e:Image source="signIn_5_png" x="18.26" y="17.35" scaleX="1" scaleY="1"/>
+		<e:Label id="stateText" text="已领取" x="17.26" y="43.62" textColor="0x46FC19" size="15" rotation="-23" scaleX="1" scaleY="1" width="60" textAlign="center"/>
+	</e:Group>
+</e:Skin>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ForgeItemSkin" width="70" height="70" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="forge_down" source="forge_down_png" x="0" y="0" width="70" height="70"/>
+	<e:Image id="forge_up" source="forge_up_png" x="0" y="0" touchEnabled="false"/>
+	<e:Image id="image_item" source="forgeicon_1_png" horizontalCenter="0" verticalCenter="0" touchEnabled="false"/>
+	<e:Label id="_level_label" text="1" x="48" y="20" verticalAlign="middle" textAlign="center" size="18" fontFamily="DFKai-SB" touchEnabled="false" textColor="0xf9c602" bold="true" stroke="0.5" anchorOffsetY="9" anchorOffsetX="4.5"/>
+</e:Skin>

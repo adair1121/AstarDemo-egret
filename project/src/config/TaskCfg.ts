@@ -1,0 +1,19 @@
+interface TaskCfg
+{
+//id
+ID:number;
+//任务名称
+task_name:string;
+//
+checkpointID:number;
+//任务类型
+task_type:number;
+//目标总数量
+task_num:number;
+//经验奖励
+task_exp:number;
+//元宝奖励
+task_reward:string;
+//元宝数量
+reward_num:number;
+}

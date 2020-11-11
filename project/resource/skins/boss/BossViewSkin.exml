@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BossViewSkin" width="1334" height="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect left="0" top="0" right="0" bottom="0" fillAlpha="0.6"/>
+	<e:Group id="show_group" horizontalCenter="0" verticalCenter="0">
+		<e:Image x="0" y="0" source="boss_bg_png"/>
+		<e:Image x="933.02" y="71.03" source="boss_close_btn_png"/>
+		<e:Label text="掉    落" y="431" anchorOffsetX="0" width="281.58" verticalAlign="middle" textAlign="center" size="20" x="489" strokeColor="0xff0000" stroke="1" textColor="0xffe3cc" bold="true"/>
+		<e:Scroller id="selectScroller" width="212" height="460" x="153" y="128" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Group id="selectGroup">
+		</e:Group>
+		</e:Scroller>
+		<e:Scroller id="rewardScroller" width="480" height="80" x="387" y="459" anchorOffsetX="0" anchorOffsetY="0">
+			<e:Group id="rewardGroup"/>
+		</e:Scroller>
+		<e:Group x="371" y="128" height="292">
+			<e:Image id="mapImg" x="0" y="0" scaleX="1" scaleY="1" source="boss_map_bg_0_png"/>
+			<e:Image id="bossImg" source="boss_img_0_png" horizontalCenter="0" verticalCenter="0" visible="false"/>
+			<e:Group id="aniGroup" width="26.67" height="22.67" x="247" y="236.31" anchorOffsetX="0" anchorOffsetY="0"/>
+			<e:Label id="conditionLab" text="进入条件：150级" x="11" y="66" anchorOffsetX="0" width="435" textColor="0x3dff00" size="18" verticalAlign="middle" anchorOffsetY="0" height="22" stroke="2"/>
+			<e:Label id="levelLab" text="Boss等级：150级" x="11" y="38" anchorOffsetX="0" width="435" textColor="0x3DFF00" size="18" verticalAlign="middle" anchorOffsetY="0" height="22" stroke="2"/>
+			<e:Label id="mapLab" text="进入条件：150级" x="11" y="9" anchorOffsetX="0" width="435" textColor="0x3DFF00" size="18" verticalAlign="middle" anchorOffsetY="0" height="22" stroke="2" fontFamily="Arial"/>
+			<e:Image source="boss_map_b_png" x="-0.99" y="-1"/>
+		</e:Group>
+		<e:Label id="cdLab" text="冷却时间：10:00" x="460" y="544" anchorOffsetX="0" width="333" anchorOffsetY="0" height="40" verticalAlign="middle" textAlign="center" textColor="0x59ff00" size="20"/>
+		<e:Button id="challengeBtn" label="挑战" x="564.5" y="545" scaleX="1" scaleY="1">
+			<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="boss_btn_bg_png" source.down="boss_btn_bg_png" source.disabled="boss_btn_bg_png"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" size="20" stroke="2" textColor="0xffe8bf"/>
+			</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Rect id="closeImg" width="95" height="98.33" x="904.52" y="40.87" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0"/>
+		<e:Image source="boss_show_title_png" y="87" horizontalCenter="0"/>
+	</e:Group>
+</e:Skin>

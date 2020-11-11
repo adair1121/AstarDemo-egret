@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RoleEquipItemSkin" width="65" height="65" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group id="effect_group" width="0" height="0" x="32.5" y="32.5"/>
+	<e:Image id="equip_bg" source="role_quality_0_png" x="0" y="0"/>
+	<e:Label id="pos_label" text="武器" x="0" y="0" anchorOffsetX="0" width="64" anchorOffsetY="0" height="64" verticalAlign="middle" textAlign="center" size="20" textColor="0x3f3d3d"/>
+	<e:Image id="equip_icon" source="item_101_png" x="6" y="5"/>
+	<e:Image id="red_img" source="btn_red_png" x="50" y="-5.5" visible="false"/>
+	<e:Label id="pinjie_label" text="" x="4.2" y="42.2" anchorOffsetX="0" width="55.8" anchorOffsetY="0" height="18.13" size="16" textAlign="left" verticalAlign="top" textColor="0xf2c68a" bold="true" stroke="0.5"/>
+	<e:Label id="forgeLevelLab" text="" y="43.2" anchorOffsetX="0" width="50" anchorOffsetY="0" height="16.8" size="16" textAlign="right" bold="true" stroke="0.5" horizontalCenter="0" textColor="0xff00e5"/>
+</e:Skin>

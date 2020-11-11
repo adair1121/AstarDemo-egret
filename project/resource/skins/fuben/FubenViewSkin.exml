@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="FubenViewSkin" width="1334" height="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect left="0" top="0" right="0" bottom="0" fillAlpha="0.6"/>
+	<e:Group id="show_group" horizontalCenter="0" verticalCenter="0">
+		<e:Image x="0" y="0" source="fuben_bg_png"/>
+		<e:Image source="fuben_show_bg_png" x="111" y="63"/>
+		<e:Image x="912.02" y="26.03" source="fuben_close_btn_png"/>
+		<e:Label text="副本" y="18" anchorOffsetX="0" width="281.58" horizontalCenter="0" verticalAlign="middle" textAlign="center" size="24" textColor="0xDDA777" visible="false"/>
+		<e:Scroller id="itemScroller" width="801" height="480" x="116" y="68" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Group id="itemGroup"/>
+		</e:Scroller>
+		<e:Image source="fuben_title_png" x="450" y="20"/>
+		<e:Rect id="closeImg" width="95" height="98.33" x="880.01" y="-2.73" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0"/>
+	</e:Group>
+</e:Skin>

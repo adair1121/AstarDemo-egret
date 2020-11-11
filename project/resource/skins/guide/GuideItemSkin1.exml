@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GuideItemSkin1" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" width="1334" height="750">
+	<e:Group id="showGroup" x="667" y="299.3" width="169" height="50">
+		<e:Image source="guide_bg_0_png" scale9Grid="9,10,137,35" left="0" top="0" right="0" bottom="-18"/>
+		<e:Label id="infoLab" text="点击领取海量任务" y="13.7" anchorOffsetX="0" anchorOffsetY="0" verticalAlign="middle" textAlign="left" size="18" width="144" horizontalCenter="0.5" textColor="0xffbf00" lineSpacing="6"/>
+		<e:Rect id="touchRect" width="42" height="42" x="77.33" scaleX="1" scaleY="1" alpha="0" anchorOffsetX="21.33" anchorOffsetY="21.33" y="164.33"/>
+		<e:Image id="arrowImg" source="guide_arrow_0_png" x="60.5" scaleX="1" scaleY="-1" anchorOffsetY="33" y="84"/>
+	</e:Group>
+</e:Skin>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MainTaskSkin" width="227" height="107.13" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="main_taskbg_png" x="0" y="0" anchorOffsetY="0" height="106.67" scale9Grid="28,49,15,23"/>
+	<e:Label id="task_title0" text="111111" x="38" y="32.84" anchorOffsetX="0" width="187" anchorOffsetY="0" height="19.3" verticalAlign="middle" textAlign="left" size="16" textColor="0xfc9f2d"/>
+	<e:Label id="task_title1" text="111111" x="38" y="54.94" anchorOffsetX="0" width="187" anchorOffsetY="0" height="19.3" verticalAlign="middle" textAlign="left" size="16" textColor="0xfc9f2d"/>
+	<e:Group id="effect_group" width="207.2" height="55.83" x="31.2" y="17.9" anchorOffsetX="0" anchorOffsetY="0" touchEnabled="false" touchChildren="false">
+	</e:Group>
+
+</e:Skin>

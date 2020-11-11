@@ -1,0 +1,38 @@
+{
+  "engineVersion": "5.2.31",
+  "compilerVersion": "5.2.31",
+  "template": {},
+  "target": {
+    "current": "web"
+  },
+  "modules": [
+    {
+      "name": "egret"
+    },
+    {
+      "name": "eui"
+    },
+    {
+      "name": "assetsmanager"
+    },
+    {
+      "name": "tween"
+    },
+    {
+      "name": "game"
+    },
+    {
+      "name": "promise"
+    },
+    {
+      "name":"particle",
+      "path":"../extendLibrary/particle/libsrc"
+    }
+  ],
+  "targets": {
+    "ios": {
+      "appname": "chuanqi",
+      "packagename": "com.companyname"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="WelcomeViewSkin" width="1334" height="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect id="rectMask" left="0" top="0" right="0" bottom="0" fillAlpha="0.2"/>
+	<e:Group id="showGroup" horizontalCenter="0" verticalCenter="0">
+		<e:Image source="welcome_bg_png" x="0" y="0"/>
+		<e:Image id="startBtn" source="welcome_start_btn_png" x="356.35" y="417.91"/>
+	</e:Group>
+</e:Skin>

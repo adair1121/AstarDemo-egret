@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SkillButtonSkin" width="116" height="36" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group id="skill_group" width="116" height="36" x="0" y="0">
+		<e:Image id="skill_btn" x="0" y="0" scaleX="1" scaleY="1" source="forge_btn1_png"/>
+		<e:Label id="skill_label" text="Label" x="58" y="18" anchorOffsetX="23" anchorOffsetY="10" size="19" scaleX="1" scaleY="1" stroke="0.5" textColor="0xf7eac0"/>
+	</e:Group>
+</e:Skin>

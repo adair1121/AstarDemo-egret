@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SKILLItemSkin" width="373" height="88" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group id="skill_bg" left="0" top="0" right="0" bottom="0" width="373" height="88">
+		<e:Image source="skill_item_bg_png" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1"/>
+		<e:Group width="65" height="65" x="13" y="12.5" scaleX="1" scaleY="1">
+			<e:Image source="skill_kuang_png" x="0" y="0" scaleX="1" scaleY="1"/>
+			<e:Image id="skill_icon" scaleX="1" scaleY="1" width="59" height="59" x="3" y="3" source="skillicon1_png"/>
+			<e:Image id="red_icon" source="btn_red_png" x="-2" y="-2"/>
+		</e:Group>
+		<e:Label id="skill_name" text="普通攻击" x="101" y="27.17" anchorOffsetX="0" anchorOffsetY="14.67" height="28.67" verticalAlign="middle" textAlign="left" scaleX="1" scaleY="1" size="19" textColor="0xe8b151"/>
+		<e:Label id="skill_lev" text="50级" x="105" y="59.5" anchorOffsetX="0" anchorOffsetY="14.67" height="28.67" verticalAlign="middle" textAlign="left" scaleX="1" scaleY="1" size="17" textColor="0xe5bd8a"/>
+		<e:Image id="skill_up" source="skill_up_png" x="0" y="0"/>
+	</e:Group>
+</e:Skin>

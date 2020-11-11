@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="itemBagSkin" width="65" height="65" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="dikaung" anchorOffsetX="0" anchorOffsetY="0" width="63" height="63" horizontalCenter="0" verticalCenter="0" scale9Grid="24,21,19,24" source="item_box_1_png"/>
+	<e:Image source="bag_15_png" x="3.8" y="44.75"/>
+	<e:Image id="item" source="item_101_png" x="5" y="4.5"/>
+	<e:Label id="labelDisplay" text="1阶" x="4.25" y="45.95" anchorOffsetX="0" width="34" size="15" textColor="0xfcc84e" stroke="1"/>
+	<e:Label id="itemNum" text="10" x="6.5" y="46.15" anchorOffsetX="0" width="50" size="15" textAlign="right" stroke="1"/>
+	<e:Label id="nameShow" text="名字" x="3.63" y="19" anchorOffsetX="0" width="57.75" size="20" verticalAlign="justify" textAlign="center" visible="false"/>
+</e:Skin>

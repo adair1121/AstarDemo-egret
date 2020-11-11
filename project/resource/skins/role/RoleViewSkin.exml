@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RoleViewSkin" width="1334" height="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+	<e:Rect anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0.4" left="0" top="0" bottom="0" right="0"/>
+	<e:Group id="role_group" horizontalCenter="0" verticalCenter="0">
+		<e:Image source="role_bg0_png" x="0" y="0"/>
+		<e:Image source="role_bg1_png" x="109.16" y="66.08"/>
+		<e:Image source="role_titile_png" x="463.16" y="25.81"/>
+		<e:Image id="role_img" x="264.67" y="43.82" source="body206_1_png"/>
+		<e:Image id="role_title" source="title_head_0_png" y="53.53" horizontalCenter="-94"/>
+		<e:Label text="姓    名:" x="658.5" y="180.53" size="16" textColor="0xe87f10" stroke="0.5" bold="true"/>
+		<e:Label text="等    级:" x="659.5" y="211.53" size="16" textColor="0xe87f10" stroke="0.5" bold="true"/>
+		<e:Label id="role_name" text="9999999999" x="734" y="177.03" size="16" anchorOffsetX="0" width="128" anchorOffsetY="0" height="23" verticalAlign="middle" textAlign="center" textColor="0xf4e2cb"/>
+		<e:Label id="role_level" text="0" x="734" y="209.03" size="16" anchorOffsetX="0" width="128" anchorOffsetY="0" height="23" verticalAlign="middle" textAlign="center" textColor="0xf4e2cb"/>
+		<e:Label text="经    验:" x="660" y="241.53" size="16" textColor="0xe87f10" stroke="0.5" bold="true"/>
+		<e:Image source="role_exp_bg_png" x="717.7" y="242.33"/>
+		<e:Image id="exp_tiao" source="role_exp_tiao_png" x="717.7" y="242.33" width="165"/>
+		<e:Image id="exp_mask" source="role_exp_tiao_png" x="717.7" y="242.33" width="0"/>
+		<e:Label id="exp_label" text="100/100" x="718.2" y="243.33" anchorOffsetX="0" width="164" anchorOffsetY="0" height="14" verticalAlign="middle" textAlign="center" size="14" textColor="0xf4e2cb" stroke="0.5"/>
+		<e:Image source="role_btn_png" x="903.16" y="30.14"/>
+		<e:Label text="生   命:" x="685.5" y="292.08" size="16" textColor="0xf4bd77"/>
+		<e:Label text="魔   法:" x="685.5" y="321.41" size="16" textColor="0xF4BD77"/>
+		<e:Label text="攻   击:" x="685.5" y="352.58" size="16" textColor="0xF4BD77"/>
+		<e:Label text="防   御:" x="686" y="385.25" size="16" textColor="0xF4BD77"/>
+		<e:Label text="暴   击:" x="686" y="418.07" size="16" textColor="0xF4BD77"/>
+		<e:Label text="抗   暴:" x="686" y="451.42" size="16" textColor="0xF4BD77"/>
+		<e:Label text="闪   避:" x="685.5" y="486.58" size="16" textColor="0xF4BD77"/>
+		<e:Label text="命   中:" x="685.5" y="518.75" size="16" textColor="0xF4BD77"/>
+		<e:Label id="roleHp" text="生   命:" x="759.17" y="291.41" size="16" anchorOffsetX="0" width="109.33" verticalAlign="middle" textAlign="center" textColor="0xf4e2cb"/>
+		<e:Label id="roleMp" text="魔   法:" x="759.17" y="320.74" size="16" anchorOffsetX="0" width="109.33" verticalAlign="middle" textAlign="center" textColor="0xf4e2cb"/>
+		<e:Label id="roleAttack" text="攻   击:" x="759.17" y="351.91" size="16" anchorOffsetX="0" width="109.33" verticalAlign="middle" textAlign="center" textColor="0xf4e2cb"/>
+		<e:Label id="roleDef" text="防   御:" x="759.67" y="384.58" size="16" anchorOffsetX="0" width="109.33" verticalAlign="middle" textAlign="center" textColor="0xf4e2cb"/>
+		<e:Label id="roleCirt" text="暴   击:" x="759.67" y="417.4" size="16" anchorOffsetX="0" width="109.33" verticalAlign="middle" textAlign="center" textColor="0xf4e2cb"/>
+		<e:Label id="role_kCirk" text="抗   暴:" x="759.67" y="450.75" size="16" anchorOffsetX="0" width="109.33" verticalAlign="middle" textAlign="center" textColor="0xf4e2cb"/>
+		<e:Label id="roleDodge" text="闪   避:" x="759.17" y="485.91" size="16" anchorOffsetX="0" width="109.33" verticalAlign="middle" textAlign="center" textColor="0xf4e2cb"/>
+		<e:Label id="roleHit" text="命   中:" x="759.17" y="518.08" size="16" anchorOffsetX="0" width="109.33" verticalAlign="middle" textAlign="center" textColor="0xf4e2cb"/>
+		<e:Button id="equip_btn" label="" x="312.36" y="475.15" scaleX="1.3" scaleY="1.3">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="role_equip_btn_png" source.down="role_equip_btn_png" source.disabled="role_equip_btn_png"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" size="20" bold="true" textColor="0xe8ae6d"/>
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Group id="equip_0" width="64" height="64" x="157.06" y="106.53" anchorOffsetX="0" anchorOffsetY="0"/>
+		<e:Group id="equip_1" width="64" height="64" x="536.16" y="104.53" anchorOffsetX="0" anchorOffsetY="0"/>
+		<e:Group id="equip_2" width="64" height="64" x="157.06" y="221.53" anchorOffsetX="0" anchorOffsetY="0"/>
+		<e:Group id="equip_3" width="64" height="64" x="536.16" y="219.53" anchorOffsetX="0" anchorOffsetY="0"/>
+		<e:Group id="equip_4" width="64" height="64" x="157.06" y="337.75" anchorOffsetX="0" anchorOffsetY="0"/>
+		<e:Group id="equip_5" width="64" height="64" x="536.16" y="335.75" anchorOffsetX="0" anchorOffsetY="0"/>
+		<e:Group id="equip_6" width="64" height="64" x="157.06" y="452.75" anchorOffsetX="0" anchorOffsetY="0"/>
+		<e:Group id="equip_7" width="64" height="64" x="536.16" y="450.75" anchorOffsetX="0" anchorOffsetY="0"/>
+		<e:Label id="nameLab" text="名字名字" x="301.17" y="81.03" anchorOffsetX="0" width="185" anchorOffsetY="0" height="34" verticalAlign="middle" textAlign="center" size="20" stroke="2" textColor="0xFFEE02"/>
+		<e:Group id="effect_group" width="0" height="0" x="781" y="128.99" anchorOffsetX="0" anchorOffsetY="0"/>
+		<e:Rect id="back_btn" width="93.99" height="88.66" x="874" y="5.2" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0"/>
+		<e:Image x="700.8" y="111.33" scaleX="1.1" scaleY="1.1" source="cp_png"/>
+		<e:BitmapLabel id="power_label" width="178" height="42" x="770.81" y="114.12" anchorOffsetX="0" anchorOffsetY="0" font="num_1_fnt" text="0000000000" scaleX="0.8" scaleY="0.8"/>
+		<e:Label text="一键装备" x="317" y="480.92" anchorOffsetX="0" width="139.33" anchorOffsetY="0" height="36.67" verticalAlign="middle" textAlign="center" size="22" touchEnabled="false" stroke="1" textColor="0xf7c691"/>
+	</e:Group>
+</e:Skin>

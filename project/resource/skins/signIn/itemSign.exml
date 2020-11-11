@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="itemSignSkin" width="97" height="113" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="signIn_6_png" x="0" y="0"/>
+	<e:Group id="effect_group" width="0" height="0" anchorOffsetX="0" anchorOffsetY="0" x="48.5" y="68.5"/>
+	<e:Image id="pinzhi" scale9Grid="4,4,16,16" anchorOffsetX="0" anchorOffsetY="0" width="63" height="63" horizontalCenter="0" verticalCenter="12" source="item_box_1_png"/>
+	<e:Label id="labelDisplay" text="1" x="1" y="5" anchorOffsetX="0" width="95" size="16" textAlign="center" textColor="0x0be200"/>
+	<e:Label text="第      天" x="1" y="5" anchorOffsetX="0" width="95" size="16" textAlign="center" textColor="0xEAC075"/>
+	<e:Image id="item" horizontalCenter="0" verticalCenter="11.5" source="sgnIn_11_png"/>
+	<e:Group id="stateShow" width="97" height="113" x="0" y="0" anchorOffsetX="0" locked="true">
+		<e:Image source="signIn_5_png" x="17.75" y="46.75" scaleX="1" scaleY="1"/>
+		<e:Label id="stateText" text="可签到" x="16.1" y="73.32" textColor="0x46fc19" size="15" rotation="-23" scaleX="1" scaleY="1" textAlign="center" width="60"/>
+	</e:Group>
+	<e:Label id="labelDisplay0" text="1阶" x="19.85" y="81.95" anchorOffsetX="0" width="34" size="15" textColor="0xFCC84E" stroke="1"/>
+	<e:Label id="itemNum" text="10" x="24.2" y="84.25" anchorOffsetX="0" width="50.58" size="12" textAlign="right" stroke="1"/>
+</e:Skin>

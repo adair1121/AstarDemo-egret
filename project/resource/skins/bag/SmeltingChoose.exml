@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SmeltingChooseSkin" width="1334" height="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect left="0" top="0" right="0" bottom="0" fillAlpha="0.6"/>
+	<e:Group id="viewBox" width="960" height="640" horizontalCenter="0" verticalCenter="0">
+		<e:Group id="box" width="271" height="307" horizontalCenter="2.5" verticalCenter="0.5">
+			<e:Image x="0" y="0" scaleX="1" scaleY="1" source="smelt_0_png"/>
+			<e:Image y="163" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1" source="smelt_1_png" x="62.7"/>
+			<e:Label id="numShow" text="5" y="165" anchorOffsetX="0" width="96.67" textAlign="center" size="20" textColor="0xff872d" x="67" scaleX="1" scaleY="1" visible="false"/>
+			<e:Image id="jiaButton" x="33.9" y="163.8" scaleX="1" scaleY="1" source="smelt_4_png"/>
+			<e:Image id="jianbutton" verticalCenter="21.5" x="176" y="69" scaleX="1" scaleY="1" source="smelt_3_png"/>
+			<e:Label id="tips" text="武器" y="9.7" anchorOffsetX="0" width="150" anchorOffsetY="0" height="25" textAlign="center" size="24" scaleX="1" scaleY="1" textColor="0xffffff" horizontalCenter="1.5"/>
+			<e:Image id="maxButton" source="smelt_2_png" x="204.8" y="163.8"/>
+			<e:Image x="14.8" y="252" anchorOffsetX="0" scaleX="1" scaleY="1" source="smelt_6_png"/>
+			<e:Label id="quxiao" text="取消" y="256" size="18" anchorOffsetX="0" width="84.8" anchorOffsetY="0" height="27.4" verticalAlign="middle" textAlign="center" bold="true" textColor="0xffe9bf" x="31.6" scaleX="1" scaleY="1"/>
+			<e:Image x="144" y="252" anchorOffsetX="0" scaleX="1" scaleY="1" source="smelt_5_png"/>
+			<e:Label id="queding" text="熔炼" y="256" textColor="0xffe9bf" size="18" width="84.8" height="27.4" verticalAlign="middle" textAlign="center" x="159.6" scaleX="1" scaleY="1" stroke="1" strokeColor="0x7f5708"/>
+			<e:Group id="effect_group" x="48.9" y="76" scaleX="1" scaleY="1"/>
+			<e:Image id="dikaung" anchorOffsetX="0" anchorOffsetY="0" width="63" height="63" scale9Grid="24,21,19,24" source="item_box_1_png" x="17.4" y="44.5"/>
+			<e:Image id="item" source="item_101_png" x="20.6" y="48.1"/>
+			<e:Label id="pinjie" text="50" x="147" y="54.1" anchorOffsetX="0" width="76.4" size="18" textColor="0xffffff"/>
+			<e:Label text="品阶:" x="99" y="55.3" anchorOffsetX="0" width="52" size="18" textColor="0xcca976"/>
+			<e:Label text="需求:" x="99" y="88" anchorOffsetX="0" width="52" size="18" textColor="0xcca976"/>
+			<e:Label text="熔炼数量:" x="20.2" y="130.8" anchorOffsetX="0" width="88" size="18" textColor="0xFFFFFF"/>
+			<e:Label text="熔炼收获:" x="17.4" y="218" anchorOffsetX="0" width="88" size="18" textColor="0xFFFFFF"/>
+			<e:Label id="qianghuashi" text="10强化石" x="107.8" y="218.4" anchorOffsetX="0" width="120" size="18" textColor="0x35fc0a"/>
+			<e:Label id="jibie" text="1级" x="147" y="88" anchorOffsetX="0" width="76.4" size="18" textColor="0xFFFFFF"/>
+			<e:Label id="itemNum" text="10" x="19" y="44.5" anchorOffsetX="0" width="50" size="15" textAlign="right" visible="false"/>
+		</e:Group>
+	</e:Group>
+</e:Skin>

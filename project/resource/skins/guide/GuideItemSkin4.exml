@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GuideItemSkin4" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" width="1334" height="750">
+	<e:Group id="showGroup" y="365.3" horizontalCenter="0" anchorOffsetX="340" anchorOffsetY="71">
+		<e:Image scale9Grid="9,10,137,35" x="0" y="0" source="guide_bg_1_png"/>
+		<e:Label id="infoLab" text="发送\n到" y="62.7" anchorOffsetX="0" anchorOffsetY="0" verticalAlign="top" textAlign="left" size="18" width="388.33" textColor="0xffbf00" height="44" x="159.67" lineSpacing="6"/>
+		<e:Image id="arrowImg" source="guide_arrow_0_png" x="187.5" y="30.2" scaleX="1" scaleY="1" anchorOffsetX="18.5" anchorOffsetY="16.5" rotation="90" visible="false"/>
+	</e:Group>
+	<e:Rect id="touchRect" width="42" height="42" x="274.33" scaleX="1" scaleY="1" alpha="0" anchorOffsetX="21.33" anchorOffsetY="21.33" y="28.33"/>
+</e:Skin>

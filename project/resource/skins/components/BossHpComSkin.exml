@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BossHpComSkin" width="316" height="101" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group x="0" y="0">
+		<e:Image source="boss_hpbg_png" x="0" y="0"/>
+		<e:Image id="monBar" source="boss_hpbar_png" x="91.07" y="38.79"/>
+		<e:Image id="monHead" source="monhead10077_head_png" x="14.5" y="26.29"/>
+		<e:Rect id="monRect" width="193" height="20" x="91.07" y="36.79" anchorOffsetX="0"/>
+		<e:Label id="proLab" text="0000/0000" size="16" horizontalCenter="29" verticalCenter="-2.5"/>
+		<e:Label id="monName" text="怪物名字名字" x="91.98" y="18.3" size="15" textColor="0xe0982c"/>
+		<e:Label id="levelLab" text="10级" x="91.98" y="66.3" size="15" textColor="0xE0982C"/>
+	</e:Group>
+</e:Skin>
